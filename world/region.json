@@ -1,0 +1,252 @@
+[
+  {
+    "identity": 5187,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Caribbean"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5187"
+  },
+  {
+    "identity": 5191,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Southern and Central Asia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5191"
+  },
+  {
+    "identity": 5195,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Central Africa"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5195"
+  },
+  {
+    "identity": 5200,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Southern Europe"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5200"
+  },
+  {
+    "identity": 5207,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Middle East"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5207"
+  },
+  {
+    "identity": 5492,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "South America"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5492"
+  },
+  {
+    "identity": 5498,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Polynesia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5498"
+  },
+  {
+    "identity": 5504,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Antarctica"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5504"
+  },
+  {
+    "identity": 5517,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Australia and New Zealand"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5517"
+  },
+  {
+    "identity": 5521,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Western Europe"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5521"
+  },
+  {
+    "identity": 5525,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Eastern Africa"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5525"
+  },
+  {
+    "identity": 5530,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Western Africa"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5530"
+  },
+  {
+    "identity": 5538,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Eastern Europe"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5538"
+  },
+  {
+    "identity": 5552,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Central America"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5552"
+  },
+  {
+    "identity": 5554,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "North America"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5554"
+  },
+  {
+    "identity": 5560,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Southeast Asia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5560"
+  },
+  {
+    "identity": 5566,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Southern Africa"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5566"
+  },
+  {
+    "identity": 5576,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Eastern Asia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5576"
+  },
+  {
+    "identity": 5597,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Nordic Countries"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5597"
+  },
+  {
+    "identity": 5600,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Northern Africa"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5600"
+  },
+  {
+    "identity": 5608,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Baltic Countries"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5608"
+  },
+  {
+    "identity": 5612,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Melanesia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5612"
+  },
+  {
+    "identity": 5618,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Micronesia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5618"
+  },
+  {
+    "identity": 5621,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "British Islands"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5621"
+  },
+  {
+    "identity": 5777,
+    "labels": [
+      "Region"
+    ],
+    "properties": {
+      "name": "Micronesia/Caribbean"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5777"
+  }
+]

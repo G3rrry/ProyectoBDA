@@ -1,0 +1,5498 @@
+﻿[
+  {
+    "c": {
+      "identity": 5797,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gilaki"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5797"
+    }
+  },
+  {
+    "c": {
+      "identity": 5798,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chiu chau"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5798"
+    }
+  },
+  {
+    "c": {
+      "identity": 5799,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Danish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5799"
+    }
+  },
+  {
+    "c": {
+      "identity": 5800,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Polynesian Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5800"
+    }
+  },
+  {
+    "c": {
+      "identity": 5801,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Náhuatl"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5801"
+    }
+  },
+  {
+    "c": {
+      "identity": 5802,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Crioulo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5802"
+    }
+  },
+  {
+    "c": {
+      "identity": 5803,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gur"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5803"
+    }
+  },
+  {
+    "c": {
+      "identity": 5804,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nyanja"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5804"
+    }
+  },
+  {
+    "c": {
+      "identity": 5805,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bislama"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5805"
+    }
+  },
+  {
+    "c": {
+      "identity": 5806,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Greek"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5806"
+    }
+  },
+  {
+    "c": {
+      "identity": 5807,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kosrean"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5807"
+    }
+  },
+  {
+    "c": {
+      "identity": 5808,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bura"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5808"
+    }
+  },
+  {
+    "c": {
+      "identity": 5809,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hebrew"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5809"
+    }
+  },
+  {
+    "c": {
+      "identity": 5810,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Songhai-zerma"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5810"
+    }
+  },
+  {
+    "c": {
+      "identity": 5811,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tho"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5811"
+    }
+  },
+  {
+    "c": {
+      "identity": 5812,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gurage"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5812"
+    }
+  },
+  {
+    "c": {
+      "identity": 5813,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Madura"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5813"
+    }
+  },
+  {
+    "c": {
+      "identity": 5814,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Italian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5814"
+    }
+  },
+  {
+    "c": {
+      "identity": 5815,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Malagasy"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5815"
+    }
+  },
+  {
+    "c": {
+      "identity": 5816,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tuvalu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5816"
+    }
+  },
+  {
+    "c": {
+      "identity": 5817,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tripuri"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5817"
+    }
+  },
+  {
+    "c": {
+      "identity": 5818,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Iban"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5818"
+    }
+  },
+  {
+    "c": {
+      "identity": 5819,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sindhi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5819"
+    }
+  },
+  {
+    "c": {
+      "identity": 5820,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ketšua"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5820"
+    }
+  },
+  {
+    "c": {
+      "identity": 5821,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Limba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5821"
+    }
+  },
+  {
+    "c": {
+      "identity": 5822,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chichewa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5822"
+    }
+  },
+  {
+    "c": {
+      "identity": 5823,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luri"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5823"
+    }
+  },
+  {
+    "c": {
+      "identity": 5824,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chin"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5824"
+    }
+  },
+  {
+    "c": {
+      "identity": 5825,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Pangasinan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5825"
+    }
+  },
+  {
+    "c": {
+      "identity": 5826,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nama"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5826"
+    }
+  },
+  {
+    "c": {
+      "identity": 5827,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ewe"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5827"
+    }
+  },
+  {
+    "c": {
+      "identity": 5828,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kanem-bornu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5828"
+    }
+  },
+  {
+    "c": {
+      "identity": 5829,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luchazi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5829"
+    }
+  },
+  {
+    "c": {
+      "identity": 5830,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dzongkha"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5830"
+    }
+  },
+  {
+    "c": {
+      "identity": 5831,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Embera"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5831"
+    }
+  },
+  {
+    "c": {
+      "identity": 5832,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bemba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5832"
+    }
+  },
+  {
+    "c": {
+      "identity": 5833,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Edo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5833"
+    }
+  },
+  {
+    "c": {
+      "identity": 5834,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nsenga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5834"
+    }
+  },
+  {
+    "c": {
+      "identity": 5835,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tharu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5835"
+    }
+  },
+  {
+    "c": {
+      "identity": 5836,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Rundi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5836"
+    }
+  },
+  {
+    "c": {
+      "identity": 5837,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kurdish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5837"
+    }
+  },
+  {
+    "c": {
+      "identity": 5838,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Venda"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5838"
+    }
+  },
+  {
+    "c": {
+      "identity": 5839,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hungarian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5839"
+    }
+  },
+  {
+    "c": {
+      "identity": 5840,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mari"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5840"
+    }
+  },
+  {
+    "c": {
+      "identity": 5841,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nyamwesi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5841"
+    }
+  },
+  {
+    "c": {
+      "identity": 5842,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Yucatec"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5842"
+    }
+  },
+  {
+    "c": {
+      "identity": 5843,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mandjia"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5843"
+    }
+  },
+  {
+    "c": {
+      "identity": 5844,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Yap"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5844"
+    }
+  },
+  {
+    "c": {
+      "identity": 5845,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Telugu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5845"
+    }
+  },
+  {
+    "c": {
+      "identity": 5846,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lao"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5846"
+    }
+  },
+  {
+    "c": {
+      "identity": 5847,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ijo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5847"
+    }
+  },
+  {
+    "c": {
+      "identity": 5848,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kazakh"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5848"
+    }
+  },
+  {
+    "c": {
+      "identity": 5849,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Acholi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5849"
+    }
+  },
+  {
+    "c": {
+      "identity": 5850,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Garifuna"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5850"
+    }
+  },
+  {
+    "c": {
+      "identity": 5851,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hiligaynon"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5851"
+    }
+  },
+  {
+    "c": {
+      "identity": 5852,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Pitcairnese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5852"
+    }
+  },
+  {
+    "c": {
+      "identity": 5853,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Russian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5853"
+    }
+  },
+  {
+    "c": {
+      "identity": 5854,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Assyrian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5854"
+    }
+  },
+  {
+    "c": {
+      "identity": 5855,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ambo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5855"
+    }
+  },
+  {
+    "c": {
+      "identity": 5856,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lozi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5856"
+    }
+  },
+  {
+    "c": {
+      "identity": 5857,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Caprivi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5857"
+    }
+  },
+  {
+    "c": {
+      "identity": 5858,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Wolof"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5858"
+    }
+  },
+  {
+    "c": {
+      "identity": 5859,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Min"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5859"
+    }
+  },
+  {
+    "c": {
+      "identity": 5860,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Albaniana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5860"
+    }
+  },
+  {
+    "c": {
+      "identity": 5861,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Malajalam"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5861"
+    }
+  },
+  {
+    "c": {
+      "identity": 5862,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luimbe-nganguela"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5862"
+    }
+  },
+  {
+    "c": {
+      "identity": 5863,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kamba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5863"
+    }
+  },
+  {
+    "c": {
+      "identity": 5864,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bilin"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5864"
+    }
+  },
+  {
+    "c": {
+      "identity": 5865,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mahoré"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5865"
+    }
+  },
+  {
+    "c": {
+      "identity": 5866,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Banja"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5866"
+    }
+  },
+  {
+    "c": {
+      "identity": 5867,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lezgian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5867"
+    }
+  },
+  {
+    "c": {
+      "identity": 5868,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maguindanao"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5868"
+    }
+  },
+  {
+    "c": {
+      "identity": 5869,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kirundi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5869"
+    }
+  },
+  {
+    "c": {
+      "identity": 5870,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Javanese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5870"
+    }
+  },
+  {
+    "c": {
+      "identity": 5871,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Newari"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5871"
+    }
+  },
+  {
+    "c": {
+      "identity": 5872,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kuy"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5872"
+    }
+  },
+  {
+    "c": {
+      "identity": 5873,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bajan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5873"
+    }
+  },
+  {
+    "c": {
+      "identity": 5874,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Romansh"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5874"
+    }
+  },
+  {
+    "c": {
+      "identity": 5875,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Yalunka"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5875"
+    }
+  },
+  {
+    "c": {
+      "identity": 5876,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Swazi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5876"
+    }
+  },
+  {
+    "c": {
+      "identity": 5877,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Vietnamese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5877"
+    }
+  },
+  {
+    "c": {
+      "identity": 5878,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Teke"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5878"
+    }
+  },
+  {
+    "c": {
+      "identity": 5879,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Thai"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5879"
+    }
+  },
+  {
+    "c": {
+      "identity": 5880,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Yao"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5880"
+    }
+  },
+  {
+    "c": {
+      "identity": 5881,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gorane"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5881"
+    }
+  },
+  {
+    "c": {
+      "identity": 5882,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Czech and Moravian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5882"
+    }
+  },
+  {
+    "c": {
+      "identity": 5883,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Moba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5883"
+    }
+  },
+  {
+    "c": {
+      "identity": 5884,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tswa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5884"
+    }
+  },
+  {
+    "c": {
+      "identity": 5885,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hindko"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5885"
+    }
+  },
+  {
+    "c": {
+      "identity": 5886,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Joruba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5886"
+    }
+  },
+  {
+    "c": {
+      "identity": 5887,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kekchí"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5887"
+    }
+  },
+  {
+    "c": {
+      "identity": 5888,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Santhali"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5888"
+    }
+  },
+  {
+    "c": {
+      "identity": 5889,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Marshallese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5889"
+    }
+  },
+  {
+    "c": {
+      "identity": 5890,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chuvash"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5890"
+    }
+  },
+  {
+    "c": {
+      "identity": 5891,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Rapa nui"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5891"
+    }
+  },
+  {
+    "c": {
+      "identity": 5892,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nyika"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5892"
+    }
+  },
+  {
+    "c": {
+      "identity": 5893,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sumo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5893"
+    }
+  },
+  {
+    "c": {
+      "identity": 5894,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Seselwa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5894"
+    }
+  },
+  {
+    "c": {
+      "identity": 5895,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tigre"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5895"
+    }
+  },
+  {
+    "c": {
+      "identity": 5896,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Saraiki"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5896"
+    }
+  },
+  {
+    "c": {
+      "identity": 5897,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tonga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5897"
+    }
+  },
+  {
+    "c": {
+      "identity": 5898,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dariganga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5898"
+    }
+  },
+  {
+    "c": {
+      "identity": 5899,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dong"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5899"
+    }
+  },
+  {
+    "c": {
+      "identity": 5900,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Samoan-English"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5900"
+    }
+  },
+  {
+    "c": {
+      "identity": 5901,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tswana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5901"
+    }
+  },
+  {
+    "c": {
+      "identity": 5902,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "[South]Mande"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5902"
+    }
+  },
+  {
+    "c": {
+      "identity": 5903,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mordva"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5903"
+    }
+  },
+  {
+    "c": {
+      "identity": 5904,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ganda"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5904"
+    }
+  },
+  {
+    "c": {
+      "identity": 5905,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Belorussian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5905"
+    }
+  },
+  {
+    "c": {
+      "identity": 5906,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chokwe"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5906"
+    }
+  },
+  {
+    "c": {
+      "identity": 5907,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Irish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5907"
+    }
+  },
+  {
+    "c": {
+      "identity": 5908,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Fur"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5908"
+    }
+  },
+  {
+    "c": {
+      "identity": 5909,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tibetan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5909"
+    }
+  },
+  {
+    "c": {
+      "identity": 5910,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Muong"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5910"
+    }
+  },
+  {
+    "c": {
+      "identity": 5911,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Armenian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5911"
+    }
+  },
+  {
+    "c": {
+      "identity": 5912,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Romanian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5912"
+    }
+  },
+  {
+    "c": {
+      "identity": 5913,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Fijian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5913"
+    }
+  },
+  {
+    "c": {
+      "identity": 5914,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chamorro"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5914"
+    }
+  },
+  {
+    "c": {
+      "identity": 5915,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Senufo and Minianka"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5915"
+    }
+  },
+  {
+    "c": {
+      "identity": 5916,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gagauzi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5916"
+    }
+  },
+  {
+    "c": {
+      "identity": 5917,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kavango"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5917"
+    }
+  },
+  {
+    "c": {
+      "identity": 5918,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chewa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5918"
+    }
+  },
+  {
+    "c": {
+      "identity": 5919,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Canton Chinese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5919"
+    }
+  },
+  {
+    "c": {
+      "identity": 5920,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Temne"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5920"
+    }
+  },
+  {
+    "c": {
+      "identity": 5921,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mongolian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5921"
+    }
+  },
+  {
+    "c": {
+      "identity": 5922,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Malay"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5922"
+    }
+  },
+  {
+    "c": {
+      "identity": 5923,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mbum"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5923"
+    }
+  },
+  {
+    "c": {
+      "identity": 5924,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Korean"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5924"
+    }
+  },
+  {
+    "c": {
+      "identity": 5925,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Shan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5925"
+    }
+  },
+  {
+    "c": {
+      "identity": 5926,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Balochi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5926"
+    }
+  },
+  {
+    "c": {
+      "identity": 5927,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Aizo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5927"
+    }
+  },
+  {
+    "c": {
+      "identity": 5928,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dorbet"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5928"
+    }
+  },
+  {
+    "c": {
+      "identity": 5929,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Marma"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5929"
+    }
+  },
+  {
+    "c": {
+      "identity": 5930,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chechen"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5930"
+    }
+  },
+  {
+    "c": {
+      "identity": 5931,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Balante"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5931"
+    }
+  },
+  {
+    "c": {
+      "identity": 5932,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nyakusa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5932"
+    }
+  },
+  {
+    "c": {
+      "identity": 5933,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Futuna"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5933"
+    }
+  },
+  {
+    "c": {
+      "identity": 5934,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Watyi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5934"
+    }
+  },
+  {
+    "c": {
+      "identity": 5935,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Boa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5935"
+    }
+  },
+  {
+    "c": {
+      "identity": 5936,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bassa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5936"
+    }
+  },
+  {
+    "c": {
+      "identity": 5937,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sinaberberi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5937"
+    }
+  },
+  {
+    "c": {
+      "identity": 5938,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Avarian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5938"
+    }
+  },
+  {
+    "c": {
+      "identity": 5939,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dutch"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5939"
+    }
+  },
+  {
+    "c": {
+      "identity": 5940,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Creole French"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5940"
+    }
+  },
+  {
+    "c": {
+      "identity": 5941,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Japanese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5941"
+    }
+  },
+  {
+    "c": {
+      "identity": 5942,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Loma"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5942"
+    }
+  },
+  {
+    "c": {
+      "identity": 5943,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Quiché"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5943"
+    }
+  },
+  {
+    "c": {
+      "identity": 5944,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Otomí"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5944"
+    }
+  },
+  {
+    "c": {
+      "identity": 5945,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Pashto"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5945"
+    }
+  },
+  {
+    "c": {
+      "identity": 5946,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ukrainian and Russian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5946"
+    }
+  },
+  {
+    "c": {
+      "identity": 5947,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ronga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5947"
+    }
+  },
+  {
+    "c": {
+      "identity": 5948,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Zenaga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5948"
+    }
+  },
+  {
+    "c": {
+      "identity": 5949,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Afar"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5949"
+    }
+  },
+  {
+    "c": {
+      "identity": 5950,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Latvian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5950"
+    }
+  },
+  {
+    "c": {
+      "identity": 5951,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hadareb"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5951"
+    }
+  },
+  {
+    "c": {
+      "identity": 5952,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gio"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5952"
+    }
+  },
+  {
+    "c": {
+      "identity": 5953,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bakhtyari"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5953"
+    }
+  },
+  {
+    "c": {
+      "identity": 5954,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Fukien"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5954"
+    }
+  },
+  {
+    "c": {
+      "identity": 5955,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kotokoli"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5955"
+    }
+  },
+  {
+    "c": {
+      "identity": 5956,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hadjarai"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5956"
+    }
+  },
+  {
+    "c": {
+      "identity": 5957,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Banda"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5957"
+    }
+  },
+  {
+    "c": {
+      "identity": 5958,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maithili"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5958"
+    }
+  },
+  {
+    "c": {
+      "identity": 5959,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mandyako"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5959"
+    }
+  },
+  {
+    "c": {
+      "identity": 5960,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mpongwe"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5960"
+    }
+  },
+  {
+    "c": {
+      "identity": 5961,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nubian Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5961"
+    }
+  },
+  {
+    "c": {
+      "identity": 5962,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Atayal"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5962"
+    }
+  },
+  {
+    "c": {
+      "identity": 5963,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Warrau"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5963"
+    }
+  },
+  {
+    "c": {
+      "identity": 5964,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Somali"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5964"
+    }
+  },
+  {
+    "c": {
+      "identity": 5965,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Garo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5965"
+    }
+  },
+  {
+    "c": {
+      "identity": 5966,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Miskito"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5966"
+    }
+  },
+  {
+    "c": {
+      "identity": 5967,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maranao"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5967"
+    }
+  },
+  {
+    "c": {
+      "identity": 5968,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Susu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5968"
+    }
+  },
+  {
+    "c": {
+      "identity": 5969,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Brahui"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5969"
+    }
+  },
+  {
+    "c": {
+      "identity": 5970,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Duala"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5970"
+    }
+  },
+  {
+    "c": {
+      "identity": 5971,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tukulor"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5971"
+    }
+  },
+  {
+    "c": {
+      "identity": 5972,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Zande"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5972"
+    }
+  },
+  {
+    "c": {
+      "identity": 5973,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tsonga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5973"
+    }
+  },
+  {
+    "c": {
+      "identity": 5974,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ukrainian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5974"
+    }
+  },
+  {
+    "c": {
+      "identity": 5975,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Afrikaans"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5975"
+    }
+  },
+  {
+    "c": {
+      "identity": 5976,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ngala and Bangi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5976"
+    }
+  },
+  {
+    "c": {
+      "identity": 5977,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kirgiz"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5977"
+    }
+  },
+  {
+    "c": {
+      "identity": 5978,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Shona"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5978"
+    }
+  },
+  {
+    "c": {
+      "identity": 5979,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ouaddai"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5979"
+    }
+  },
+  {
+    "c": {
+      "identity": 5980,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nahua"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5980"
+    }
+  },
+  {
+    "c": {
+      "identity": 5981,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Soga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5981"
+    }
+  },
+  {
+    "c": {
+      "identity": 5982,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Catalan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5982"
+    }
+  },
+  {
+    "c": {
+      "identity": 5983,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mantšu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5983"
+    }
+  },
+  {
+    "c": {
+      "identity": 5984,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Soninke"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5984"
+    }
+  },
+  {
+    "c": {
+      "identity": 5985,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tigrinja"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5985"
+    }
+  },
+  {
+    "c": {
+      "identity": 5986,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chaga and Pare"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5986"
+    }
+  },
+  {
+    "c": {
+      "identity": 5987,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tahitian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5987"
+    }
+  },
+  {
+    "c": {
+      "identity": 5988,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gaeli"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5988"
+    }
+  },
+  {
+    "c": {
+      "identity": 5989,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5989"
+    }
+  },
+  {
+    "c": {
+      "identity": 5990,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Circassian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5990"
+    }
+  },
+  {
+    "c": {
+      "identity": 5991,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Fang"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5991"
+    }
+  },
+  {
+    "c": {
+      "identity": 5992,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lithuanian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5992"
+    }
+  },
+  {
+    "c": {
+      "identity": 5993,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kabyé"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5993"
+    }
+  },
+  {
+    "c": {
+      "identity": 5994,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Naudemba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5994"
+    }
+  },
+  {
+    "c": {
+      "identity": 5995,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sara"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5995"
+    }
+  },
+  {
+    "c": {
+      "identity": 5996,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ful"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5996"
+    }
+  },
+  {
+    "c": {
+      "identity": 5997,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bugi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5997"
+    }
+  },
+  {
+    "c": {
+      "identity": 5998,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luguru"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5998"
+    }
+  },
+  {
+    "c": {
+      "identity": 5999,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tadzhik"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5999"
+    }
+  },
+  {
+    "c": {
+      "identity": 6000,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ga-adangme"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6000"
+    }
+  },
+  {
+    "c": {
+      "identity": 6001,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Adja"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6001"
+    }
+  },
+  {
+    "c": {
+      "identity": 6002,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tamashek"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6002"
+    }
+  },
+  {
+    "c": {
+      "identity": 6003,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Makonde"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6003"
+    }
+  },
+  {
+    "c": {
+      "identity": 6004,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Guaraní"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6004"
+    }
+  },
+  {
+    "c": {
+      "identity": 6005,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Comorian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6005"
+    }
+  },
+  {
+    "c": {
+      "identity": 6006,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Pohnpei"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6006"
+    }
+  },
+  {
+    "c": {
+      "identity": 6007,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ilocano"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6007"
+    }
+  },
+  {
+    "c": {
+      "identity": 6008,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Pilipino"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6008"
+    }
+  },
+  {
+    "c": {
+      "identity": 6009,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tokelau"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6009"
+    }
+  },
+  {
+    "c": {
+      "identity": 6010,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Karen"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6010"
+    }
+  },
+  {
+    "c": {
+      "identity": 6011,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gogo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6011"
+    }
+  },
+  {
+    "c": {
+      "identity": 6012,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mandara"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6012"
+    }
+  },
+  {
+    "c": {
+      "identity": 6013,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dari"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6013"
+    }
+  },
+  {
+    "c": {
+      "identity": 6014,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kymri"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6014"
+    }
+  },
+  {
+    "c": {
+      "identity": 6015,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tatar"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6015"
+    }
+  },
+  {
+    "c": {
+      "identity": 6016,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bullom-sherbro"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6016"
+    }
+  },
+  {
+    "c": {
+      "identity": 6017,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Karakalpak"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6017"
+    }
+  },
+  {
+    "c": {
+      "identity": 6018,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mayo-kebbi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6018"
+    }
+  },
+  {
+    "c": {
+      "identity": 6019,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Beja"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6019"
+    }
+  },
+  {
+    "c": {
+      "identity": 6020,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Polish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6020"
+    }
+  },
+  {
+    "c": {
+      "identity": 6021,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mixed Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6021"
+    }
+  },
+  {
+    "c": {
+      "identity": 6022,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dyula"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6022"
+    }
+  },
+  {
+    "c": {
+      "identity": 6023,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kru"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6023"
+    }
+  },
+  {
+    "c": {
+      "identity": 6024,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nkole"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6024"
+    }
+  },
+  {
+    "c": {
+      "identity": 6025,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Turkmenian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6025"
+    }
+  },
+  {
+    "c": {
+      "identity": 6026,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tiv"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6026"
+    }
+  },
+  {
+    "c": {
+      "identity": 6027,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chakma"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6027"
+    }
+  },
+  {
+    "c": {
+      "identity": 6028,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Northsotho"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6028"
+    }
+  },
+  {
+    "c": {
+      "identity": 6029,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Punjabi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6029"
+    }
+  },
+  {
+    "c": {
+      "identity": 6030,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kachin"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6030"
+    }
+  },
+  {
+    "c": {
+      "identity": 6031,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Portuguese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6031"
+    }
+  },
+  {
+    "c": {
+      "identity": 6032,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gisu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6032"
+    }
+  },
+  {
+    "c": {
+      "identity": 6033,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Samoan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6033"
+    }
+  },
+  {
+    "c": {
+      "identity": 6034,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Turkish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6034"
+    }
+  },
+  {
+    "c": {
+      "identity": 6035,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Zapotec"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6035"
+    }
+  },
+  {
+    "c": {
+      "identity": 6036,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Meru"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6036"
+    }
+  },
+  {
+    "c": {
+      "identity": 6037,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "German"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6037"
+    }
+  },
+  {
+    "c": {
+      "identity": 6038,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nepali"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6038"
+    }
+  },
+  {
+    "c": {
+      "identity": 6039,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Uzbek"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6039"
+    }
+  },
+  {
+    "c": {
+      "identity": 6040,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nuer"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6040"
+    }
+  },
+  {
+    "c": {
+      "identity": 6041,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mano"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6041"
+    }
+  },
+  {
+    "c": {
+      "identity": 6042,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Marendje"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6042"
+    }
+  },
+  {
+    "c": {
+      "identity": 6043,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nung"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6043"
+    }
+  },
+  {
+    "c": {
+      "identity": 6044,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bubi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6044"
+    }
+  },
+  {
+    "c": {
+      "identity": 6045,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luxembourgish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6045"
+    }
+  },
+  {
+    "c": {
+      "identity": 6046,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Burmese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6046"
+    }
+  },
+  {
+    "c": {
+      "identity": 6047,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Georgiana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6047"
+    }
+  },
+  {
+    "c": {
+      "identity": 6048,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Orija"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6048"
+    }
+  },
+  {
+    "c": {
+      "identity": 6049,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maka"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6049"
+    }
+  },
+  {
+    "c": {
+      "identity": 6050,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Indian Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6050"
+    }
+  },
+  {
+    "c": {
+      "identity": 6051,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Comorian-Arabic"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6051"
+    }
+  },
+  {
+    "c": {
+      "identity": 6052,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Greenlandic"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6052"
+    }
+  },
+  {
+    "c": {
+      "identity": 6053,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kiribati"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6053"
+    }
+  },
+  {
+    "c": {
+      "identity": 6054,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mboshi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6054"
+    }
+  },
+  {
+    "c": {
+      "identity": 6055,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ami"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6055"
+    }
+  },
+  {
+    "c": {
+      "identity": 6056,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Masana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6056"
+    }
+  },
+  {
+    "c": {
+      "identity": 6057,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Yi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6057"
+    }
+  },
+  {
+    "c": {
+      "identity": 6058,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Comorian-French"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6058"
+    }
+  },
+  {
+    "c": {
+      "identity": 6059,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kayah"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6059"
+    }
+  },
+  {
+    "c": {
+      "identity": 6060,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Somba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6060"
+    }
+  },
+  {
+    "c": {
+      "identity": 6061,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Finnish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6061"
+    }
+  },
+  {
+    "c": {
+      "identity": 6062,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Amhara"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6062"
+    }
+  },
+  {
+    "c": {
+      "identity": 6063,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Akan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6063"
+    }
+  },
+  {
+    "c": {
+      "identity": 6064,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Rakhine"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6064"
+    }
+  },
+  {
+    "c": {
+      "identity": 6065,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ngbaka"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6065"
+    }
+  },
+  {
+    "c": {
+      "identity": 6066,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hakka"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6066"
+    }
+  },
+  {
+    "c": {
+      "identity": 6067,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bariba"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6067"
+    }
+  },
+  {
+    "c": {
+      "identity": 6068,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tujia"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6068"
+    }
+  },
+  {
+    "c": {
+      "identity": 6069,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Malenasian Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6069"
+    }
+  },
+  {
+    "c": {
+      "identity": 6070,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tamang"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6070"
+    }
+  },
+  {
+    "c": {
+      "identity": 6071,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gurma"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6071"
+    }
+  },
+  {
+    "c": {
+      "identity": 6072,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tšam"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6072"
+    }
+  },
+  {
+    "c": {
+      "identity": 6073,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Arawakan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6073"
+    }
+  },
+  {
+    "c": {
+      "identity": 6074,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Galecian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6074"
+    }
+  },
+  {
+    "c": {
+      "identity": 6075,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Diola"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6075"
+    }
+  },
+  {
+    "c": {
+      "identity": 6076,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Serer"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6076"
+    }
+  },
+  {
+    "c": {
+      "identity": 6077,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Uighur"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6077"
+    }
+  },
+  {
+    "c": {
+      "identity": 6078,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mandarin Chinese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6078"
+    }
+  },
+  {
+    "c": {
+      "identity": 6079,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hindi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6079"
+    }
+  },
+  {
+    "c": {
+      "identity": 6080,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Arabic-French"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6080"
+    }
+  },
+  {
+    "c": {
+      "identity": 6081,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Makua"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6081"
+    }
+  },
+  {
+    "c": {
+      "identity": 6082,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Buryat"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6082"
+    }
+  },
+  {
+    "c": {
+      "identity": 6083,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dinka"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6083"
+    }
+  },
+  {
+    "c": {
+      "identity": 6084,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Masai"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6084"
+    }
+  },
+  {
+    "c": {
+      "identity": 6085,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Khasi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6085"
+    }
+  },
+  {
+    "c": {
+      "identity": 6086,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luvale"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6086"
+    }
+  },
+  {
+    "c": {
+      "identity": 6087,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Herero"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6087"
+    }
+  },
+  {
+    "c": {
+      "identity": 6088,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Eskimo Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6088"
+    }
+  },
+  {
+    "c": {
+      "identity": 6089,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dhivehi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6089"
+    }
+  },
+  {
+    "c": {
+      "identity": 6090,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Cakchiquel"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6090"
+    }
+  },
+  {
+    "c": {
+      "identity": 6091,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Aimará"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6091"
+    }
+  },
+  {
+    "c": {
+      "identity": 6092,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Romani"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6092"
+    }
+  },
+  {
+    "c": {
+      "identity": 6093,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bali"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6093"
+    }
+  },
+  {
+    "c": {
+      "identity": 6094,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Oromo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6094"
+    }
+  },
+  {
+    "c": {
+      "identity": 6095,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bhojpuri"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6095"
+    }
+  },
+  {
+    "c": {
+      "identity": 6096,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Puyi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6096"
+    }
+  },
+  {
+    "c": {
+      "identity": 6097,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Goajiro"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6097"
+    }
+  },
+  {
+    "c": {
+      "identity": 6098,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Punu-sira-nzebi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6098"
+    }
+  },
+  {
+    "c": {
+      "identity": 6099,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Comorian-Swahili"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6099"
+    }
+  },
+  {
+    "c": {
+      "identity": 6100,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ha"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6100"
+    }
+  },
+  {
+    "c": {
+      "identity": 6101,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Creole English"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6101"
+    }
+  },
+  {
+    "c": {
+      "identity": 6102,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bambara"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6102"
+    }
+  },
+  {
+    "c": {
+      "identity": 6103,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bashkir"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6103"
+    }
+  },
+  {
+    "c": {
+      "identity": 6104,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Persian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6104"
+    }
+  },
+  {
+    "c": {
+      "identity": 6105,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sardinian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6105"
+    }
+  },
+  {
+    "c": {
+      "identity": 6106,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kikuyu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6106"
+    }
+  },
+  {
+    "c": {
+      "identity": 6107,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Saho"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6107"
+    }
+  },
+  {
+    "c": {
+      "identity": 6108,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tagalog"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6108"
+    }
+  },
+  {
+    "c": {
+      "identity": 6109,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Malay-English"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6109"
+    }
+  },
+  {
+    "c": {
+      "identity": 6110,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tongan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6110"
+    }
+  },
+  {
+    "c": {
+      "identity": 6111,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kalenjin"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6111"
+    }
+  },
+  {
+    "c": {
+      "identity": 6112,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lugbara"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6112"
+    }
+  },
+  {
+    "c": {
+      "identity": 6113,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Grebo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6113"
+    }
+  },
+  {
+    "c": {
+      "identity": 6114,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mon-khmer"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6114"
+    }
+  },
+  {
+    "c": {
+      "identity": 6115,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hui"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6115"
+    }
+  },
+  {
+    "c": {
+      "identity": 6116,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Osseetti"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6116"
+    }
+  },
+  {
+    "c": {
+      "identity": 6117,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Waray-waray"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6117"
+    }
+  },
+  {
+    "c": {
+      "identity": 6118,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gusii"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6118"
+    }
+  },
+  {
+    "c": {
+      "identity": 6119,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chinese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6119"
+    }
+  },
+  {
+    "c": {
+      "identity": 6120,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kono-vai"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6120"
+    }
+  },
+  {
+    "c": {
+      "identity": 6121,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tamil"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6121"
+    }
+  },
+  {
+    "c": {
+      "identity": 6122,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Czech"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6122"
+    }
+  },
+  {
+    "c": {
+      "identity": 6123,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bengali"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6123"
+    }
+  },
+  {
+    "c": {
+      "identity": 6124,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Punu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6124"
+    }
+  },
+  {
+    "c": {
+      "identity": 6125,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Trukese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6125"
+    }
+  },
+  {
+    "c": {
+      "identity": 6126,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Batakki"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6126"
+    }
+  },
+  {
+    "c": {
+      "identity": 6127,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Philippene Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6127"
+    }
+  },
+  {
+    "c": {
+      "identity": 6128,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lotuko"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6128"
+    }
+  },
+  {
+    "c": {
+      "identity": 6129,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Xhosa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6129"
+    }
+  },
+  {
+    "c": {
+      "identity": 6130,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kiga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6130"
+    }
+  },
+  {
+    "c": {
+      "identity": 6131,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tikar"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6131"
+    }
+  },
+  {
+    "c": {
+      "identity": 6132,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "San"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6132"
+    }
+  },
+  {
+    "c": {
+      "identity": 6133,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Marathi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6133"
+    }
+  },
+  {
+    "c": {
+      "identity": 6134,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kissi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6134"
+    }
+  },
+  {
+    "c": {
+      "identity": 6135,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bicol"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6135"
+    }
+  },
+  {
+    "c": {
+      "identity": 6136,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Faroese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6136"
+    }
+  },
+  {
+    "c": {
+      "identity": 6137,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Busansi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6137"
+    }
+  },
+  {
+    "c": {
+      "identity": 6138,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Guaymí"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6138"
+    }
+  },
+  {
+    "c": {
+      "identity": 6139,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Azerbaijani"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6139"
+    }
+  },
+  {
+    "c": {
+      "identity": 6140,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chibcha"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6140"
+    }
+  },
+  {
+    "c": {
+      "identity": 6141,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Papuan Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6141"
+    }
+  },
+  {
+    "c": {
+      "identity": 6142,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Niue"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6142"
+    }
+  },
+  {
+    "c": {
+      "identity": 6143,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Shambala"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6143"
+    }
+  },
+  {
+    "c": {
+      "identity": 6144,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maori"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6144"
+    }
+  },
+  {
+    "c": {
+      "identity": 6145,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mon"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6145"
+    }
+  },
+  {
+    "c": {
+      "identity": 6146,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Urdu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6146"
+    }
+  },
+  {
+    "c": {
+      "identity": 6147,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Rwanda"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6147"
+    }
+  },
+  {
+    "c": {
+      "identity": 6148,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nauru"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6148"
+    }
+  },
+  {
+    "c": {
+      "identity": 6149,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maya Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6149"
+    }
+  },
+  {
+    "c": {
+      "identity": 6150,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Papiamento"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6150"
+    }
+  },
+  {
+    "c": {
+      "identity": 6151,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kongo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6151"
+    }
+  },
+  {
+    "c": {
+      "identity": 6152,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Wolea"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6152"
+    }
+  },
+  {
+    "c": {
+      "identity": 6153,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ndebele"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6153"
+    }
+  },
+  {
+    "c": {
+      "identity": 6154,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Basque"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6154"
+    }
+  },
+  {
+    "c": {
+      "identity": 6155,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Singali"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6155"
+    }
+  },
+  {
+    "c": {
+      "identity": 6156,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Icelandic"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6156"
+    }
+  },
+  {
+    "c": {
+      "identity": 6157,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Maltese"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6157"
+    }
+  },
+  {
+    "c": {
+      "identity": 6158,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gbaya"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6158"
+    }
+  },
+  {
+    "c": {
+      "identity": 6159,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Swedish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6159"
+    }
+  },
+  {
+    "c": {
+      "identity": 6160,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lomwe"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6160"
+    }
+  },
+  {
+    "c": {
+      "identity": 6161,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mam"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6161"
+    }
+  },
+  {
+    "c": {
+      "identity": 6162,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Asami"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6162"
+    }
+  },
+  {
+    "c": {
+      "identity": 6163,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Slovene"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6163"
+    }
+  },
+  {
+    "c": {
+      "identity": 6164,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Haiti Creole"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6164"
+    }
+  },
+  {
+    "c": {
+      "identity": 6165,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Udmur"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6165"
+    }
+  },
+  {
+    "c": {
+      "identity": 6166,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Southsotho"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6166"
+    }
+  },
+  {
+    "c": {
+      "identity": 6167,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Malinke"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6167"
+    }
+  },
+  {
+    "c": {
+      "identity": 6168,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Norwegian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6168"
+    }
+  },
+  {
+    "c": {
+      "identity": 6169,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Carolinian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6169"
+    }
+  },
+  {
+    "c": {
+      "identity": 6170,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mazandarani"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6170"
+    }
+  },
+  {
+    "c": {
+      "identity": 6171,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Arabic"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6171"
+    }
+  },
+  {
+    "c": {
+      "identity": 6172,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Zhuang"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6172"
+    }
+  },
+  {
+    "c": {
+      "identity": 6173,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Man"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6173"
+    }
+  },
+  {
+    "c": {
+      "identity": 6174,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Cuna"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6174"
+    }
+  },
+  {
+    "c": {
+      "identity": 6175,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lao-Soung"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6175"
+    }
+  },
+  {
+    "c": {
+      "identity": 6176,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kuranko"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6176"
+    }
+  },
+  {
+    "c": {
+      "identity": 6177,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kpelle"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6177"
+    }
+  },
+  {
+    "c": {
+      "identity": 6178,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Silesiana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6178"
+    }
+  },
+  {
+    "c": {
+      "identity": 6179,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Swahili"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6179"
+    }
+  },
+  {
+    "c": {
+      "identity": 6180,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Araucan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6180"
+    }
+  },
+  {
+    "c": {
+      "identity": 6181,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Walaita"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6181"
+    }
+  },
+  {
+    "c": {
+      "identity": 6182,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6182"
+    }
+  },
+  {
+    "c": {
+      "identity": 6183,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Soqutri"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6183"
+    }
+  },
+  {
+    "c": {
+      "identity": 6184,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ngoni"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6184"
+    }
+  },
+  {
+    "c": {
+      "identity": 6185,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ibo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6185"
+    }
+  },
+  {
+    "c": {
+      "identity": 6186,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ovambo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6186"
+    }
+  },
+  {
+    "c": {
+      "identity": 6187,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Slovak"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6187"
+    }
+  },
+  {
+    "c": {
+      "identity": 6188,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Fon"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6188"
+    }
+  },
+  {
+    "c": {
+      "identity": 6189,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "English"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6189"
+    }
+  },
+  {
+    "c": {
+      "identity": 6190,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Minangkabau"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6190"
+    }
+  },
+  {
+    "c": {
+      "identity": 6191,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sidamo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6191"
+    }
+  },
+  {
+    "c": {
+      "identity": 6192,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Abhyasi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6192"
+    }
+  },
+  {
+    "c": {
+      "identity": 6193,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mbundu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6193"
+    }
+  },
+  {
+    "c": {
+      "identity": 6194,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Friuli"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6194"
+    }
+  },
+  {
+    "c": {
+      "identity": 6195,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ainu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6195"
+    }
+  },
+  {
+    "c": {
+      "identity": 6196,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bamileke-bamum"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6196"
+    }
+  },
+  {
+    "c": {
+      "identity": 6197,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Moravian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6197"
+    }
+  },
+  {
+    "c": {
+      "identity": 6198,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sango"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6198"
+    }
+  },
+  {
+    "c": {
+      "identity": 6199,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dusun"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6199"
+    }
+  },
+  {
+    "c": {
+      "identity": 6200,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bari"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6200"
+    }
+  },
+  {
+    "c": {
+      "identity": 6201,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Caribbean"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6201"
+    }
+  },
+  {
+    "c": {
+      "identity": 6202,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Luhya"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6202"
+    }
+  },
+  {
+    "c": {
+      "identity": 6203,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hehet"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6203"
+    }
+  },
+  {
+    "c": {
+      "identity": 6204,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bajad"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6204"
+    }
+  },
+  {
+    "c": {
+      "identity": 6205,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Arabic-French-English"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6205"
+    }
+  },
+  {
+    "c": {
+      "identity": 6206,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Palau"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6206"
+    }
+  },
+  {
+    "c": {
+      "identity": 6207,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Khmer"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6207"
+    }
+  },
+  {
+    "c": {
+      "identity": 6208,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Saame"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6208"
+    }
+  },
+  {
+    "c": {
+      "identity": 6209,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Nyaneka-nkhumbi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6209"
+    }
+  },
+  {
+    "c": {
+      "identity": 6210,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Spanish"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6210"
+    }
+  },
+  {
+    "c": {
+      "identity": 6211,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Fries"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6211"
+    }
+  },
+  {
+    "c": {
+      "identity": 6212,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sotho"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6212"
+    }
+  },
+  {
+    "c": {
+      "identity": 6213,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sunda"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6213"
+    }
+  },
+  {
+    "c": {
+      "identity": 6214,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Miao"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6214"
+    }
+  },
+  {
+    "c": {
+      "identity": 6215,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Khoekhoe"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6215"
+    }
+  },
+  {
+    "c": {
+      "identity": 6216,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Cebuano"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6216"
+    }
+  },
+  {
+    "c": {
+      "identity": 6217,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ane"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6217"
+    }
+  },
+  {
+    "c": {
+      "identity": 6218,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Turkana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6218"
+    }
+  },
+  {
+    "c": {
+      "identity": 6219,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Teso"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6219"
+    }
+  },
+  {
+    "c": {
+      "identity": 6220,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kanuri"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6220"
+    }
+  },
+  {
+    "c": {
+      "identity": 6221,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sena"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6221"
+    }
+  },
+  {
+    "c": {
+      "identity": 6222,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chilluk"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6222"
+    }
+  },
+  {
+    "c": {
+      "identity": 6223,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Monegasque"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6223"
+    }
+  },
+  {
+    "c": {
+      "identity": 6224,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Chuabo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6224"
+    }
+  },
+  {
+    "c": {
+      "identity": 6225,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Haya"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6225"
+    }
+  },
+  {
+    "c": {
+      "identity": 6226,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Serbo-Croatian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6226"
+    }
+  },
+  {
+    "c": {
+      "identity": 6227,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Dagara"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6227"
+    }
+  },
+  {
+    "c": {
+      "identity": 6228,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mortlock"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6228"
+    }
+  },
+  {
+    "c": {
+      "identity": 6229,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Gujarati"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6229"
+    }
+  },
+  {
+    "c": {
+      "identity": 6230,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Comorian-madagassi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6230"
+    }
+  },
+  {
+    "c": {
+      "identity": 6231,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mossi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6231"
+    }
+  },
+  {
+    "c": {
+      "identity": 6232,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Wallis"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6232"
+    }
+  },
+  {
+    "c": {
+      "identity": 6233,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hassaniya"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6233"
+    }
+  },
+  {
+    "c": {
+      "identity": 6234,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Sranantonga"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6234"
+    }
+  },
+  {
+    "c": {
+      "identity": 6235,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Macedonian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6235"
+    }
+  },
+  {
+    "c": {
+      "identity": 6236,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Songhai"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6236"
+    }
+  },
+  {
+    "c": {
+      "identity": 6237,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mende"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6237"
+    }
+  },
+  {
+    "c": {
+      "identity": 6238,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Hausa"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6238"
+    }
+  },
+  {
+    "c": {
+      "identity": 6239,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Zulu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6239"
+    }
+  },
+  {
+    "c": {
+      "identity": 6240,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Southern Slavic Languages"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6240"
+    }
+  },
+  {
+    "c": {
+      "identity": 6241,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ibibio"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6241"
+    }
+  },
+  {
+    "c": {
+      "identity": 6242,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mongo"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6242"
+    }
+  },
+  {
+    "c": {
+      "identity": 6243,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Lango"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6243"
+    }
+  },
+  {
+    "c": {
+      "identity": 6244,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mbete"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6244"
+    }
+  },
+  {
+    "c": {
+      "identity": 6245,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Mixtec"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6245"
+    }
+  },
+  {
+    "c": {
+      "identity": 6246,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Tandjile"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6246"
+    }
+  },
+  {
+    "c": {
+      "identity": 6247,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Paiwan"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6247"
+    }
+  },
+  {
+    "c": {
+      "identity": 6248,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Estonian"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6248"
+    }
+  },
+  {
+    "c": {
+      "identity": 6249,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Berberi"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6249"
+    }
+  },
+  {
+    "c": {
+      "identity": 6250,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Ovimbundu"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6250"
+    }
+  },
+  {
+    "c": {
+      "identity": 6251,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Bulgariana"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6251"
+    }
+  },
+  {
+    "c": {
+      "identity": 6252,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Pampango"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6252"
+    }
+  },
+  {
+    "c": {
+      "identity": 6253,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "French"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6253"
+    }
+  },
+  {
+    "c": {
+      "identity": 6254,
+      "labels": [
+        "Language"
+      ],
+      "properties": {
+        "name": "Kannada"
+      },
+      "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:6254"
+    }
+  }
+]

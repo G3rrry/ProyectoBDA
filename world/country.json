@@ -1,0 +1,4656 @@
+[
+  {
+    "identity": 5185,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AW",
+      "code": "ABW",
+      "life_expectancy": 78.4,
+      "surface_area": 193.0,
+      "gnp": 828.0,
+      "name": "Aruba",
+      "head_state": "Beatrix",
+      "local_name": "Aruba",
+      "population": 103000,
+      "gnp_old": 793.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5185"
+  },
+  {
+    "identity": 5189,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AF",
+      "code": "AFG",
+      "independence_year": 1919,
+      "surface_area": 652090.0,
+      "life_expectancy": 45.9,
+      "gnp": 5976.0,
+      "name": "Afghanistan",
+      "head_state": "Mohammad Omar",
+      "local_name": "Afganistan/Afqanestan",
+      "population": 22720000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5189"
+  },
+  {
+    "identity": 5193,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AO",
+      "code": "AGO",
+      "independence_year": 1975,
+      "life_expectancy": 38.3,
+      "surface_area": 1246700.0,
+      "gnp": 6648.0,
+      "name": "Angola",
+      "head_state": "Jos\u00e9 Eduardo dos Santos",
+      "local_name": "Angola",
+      "population": 12878000,
+      "gnp_old": 7984.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5193"
+  },
+  {
+    "identity": 5197,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AI",
+      "code": "AIA",
+      "surface_area": 96.0,
+      "life_expectancy": 76.1,
+      "gnp": 63.2,
+      "name": "Anguilla",
+      "head_state": "Elisabeth II",
+      "local_name": "Anguilla",
+      "population": 8000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5197"
+  },
+  {
+    "identity": 5199,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AL",
+      "code": "ALB",
+      "independence_year": 1912,
+      "life_expectancy": 71.6,
+      "surface_area": 28748.0,
+      "gnp": 3205.0,
+      "name": "Albania",
+      "head_state": "Rexhep Mejdani",
+      "local_name": "Shqip\u00ebria",
+      "population": 3401200,
+      "gnp_old": 2500.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5199"
+  },
+  {
+    "identity": 5202,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AD",
+      "code": "AND",
+      "independence_year": 1278,
+      "surface_area": 468.0,
+      "life_expectancy": 83.5,
+      "gnp": 1630.0,
+      "name": "Andorra",
+      "head_state": "",
+      "local_name": "Andorra",
+      "population": 78000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5202"
+  },
+  {
+    "identity": 5204,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AN",
+      "code": "ANT",
+      "surface_area": 800.0,
+      "life_expectancy": 74.7,
+      "gnp": 1941.0,
+      "name": "Netherlands Antilles",
+      "head_state": "Beatrix",
+      "local_name": "Nederlandse Antillen",
+      "population": 217000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5204"
+  },
+  {
+    "identity": 5205,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AE",
+      "code": "ARE",
+      "independence_year": 1971,
+      "surface_area": 83600.0,
+      "life_expectancy": 74.1,
+      "gnp": 37966.0,
+      "name": "United Arab Emirates",
+      "head_state": "Zayid bin Sultan al-Nahayan",
+      "local_name": "Al-Imarat al-\u00b4Arabiya al-Muttahida",
+      "population": 2441000,
+      "gnp_old": 36846.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5205"
+  },
+  {
+    "identity": 5208,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AR",
+      "code": "ARG",
+      "independence_year": 1816,
+      "life_expectancy": 75.1,
+      "surface_area": 2780400.0,
+      "gnp": 340238.0,
+      "name": "Argentina",
+      "head_state": "Fernando de la R\u00faa",
+      "local_name": "Argentina",
+      "population": 37032000,
+      "gnp_old": 323310.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5208"
+  },
+  {
+    "identity": 5494,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AM",
+      "code": "ARM",
+      "independence_year": 1991,
+      "life_expectancy": 66.4,
+      "surface_area": 29800.0,
+      "gnp": 1813.0,
+      "name": "Armenia",
+      "head_state": "Robert Kot\u0161arjan",
+      "local_name": "Hajastan",
+      "population": 3520000,
+      "gnp_old": 1627.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5494"
+  },
+  {
+    "identity": 5496,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AS",
+      "code": "ASM",
+      "surface_area": 199.0,
+      "life_expectancy": 75.1,
+      "gnp": 334.0,
+      "name": "American Samoa",
+      "head_state": "George W. Bush",
+      "local_name": "Amerika Samoa",
+      "population": 68000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5496"
+  },
+  {
+    "identity": 5501,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AQ",
+      "code": "ATA",
+      "surface_area": 13120000.0,
+      "name": "Antarctica",
+      "gnp": 0.0,
+      "head_state": "",
+      "local_name": "\u2013",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5501"
+  },
+  {
+    "identity": 5507,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TF",
+      "code": "ATF",
+      "surface_area": 7780.0,
+      "name": "French Southern territories",
+      "gnp": 0.0,
+      "head_state": "Jacques Chirac",
+      "local_name": "Terres australes fran\u00e7aises",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5507"
+  },
+  {
+    "identity": 5512,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AG",
+      "code": "ATG",
+      "independence_year": 1981,
+      "surface_area": 442.0,
+      "life_expectancy": 70.5,
+      "gnp": 612.0,
+      "name": "Antigua and Barbuda",
+      "head_state": "Elisabeth II",
+      "local_name": "Antigua and Barbuda",
+      "population": 68000,
+      "gnp_old": 584.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5512"
+  },
+  {
+    "identity": 5515,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AU",
+      "code": "AUS",
+      "independence_year": 1901,
+      "life_expectancy": 79.8,
+      "surface_area": 7741220.0,
+      "gnp": 351182.0,
+      "name": "Australia",
+      "head_state": "Elisabeth II",
+      "local_name": "Australia",
+      "population": 18886000,
+      "gnp_old": 392911.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5515"
+  },
+  {
+    "identity": 5520,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AT",
+      "code": "AUT",
+      "independence_year": 1918,
+      "life_expectancy": 77.7,
+      "surface_area": 83859.0,
+      "gnp": 211860.0,
+      "name": "Austria",
+      "head_state": "Thomas Klestil",
+      "local_name": "\u00d6sterreich",
+      "population": 8091800,
+      "gnp_old": 206025.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5520"
+  },
+  {
+    "identity": 5522,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "AZ",
+      "code": "AZE",
+      "independence_year": 1991,
+      "life_expectancy": 62.9,
+      "surface_area": 86600.0,
+      "gnp": 4127.0,
+      "name": "Azerbaijan",
+      "head_state": "\u0130lham \u018fliyev",
+      "local_name": "Az\u0259rbaycan",
+      "population": 7734000,
+      "gnp_old": 4100.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5522"
+  },
+  {
+    "identity": 5524,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BI",
+      "code": "BDI",
+      "independence_year": 1962,
+      "life_expectancy": 46.2,
+      "surface_area": 27834.0,
+      "gnp": 903.0,
+      "name": "Burundi",
+      "head_state": "Pierre Buyoya",
+      "local_name": "Burundi/Uburundi",
+      "population": 6695000,
+      "gnp_old": 982.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5524"
+  },
+  {
+    "identity": 5526,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BE",
+      "code": "BEL",
+      "independence_year": 1830,
+      "life_expectancy": 77.8,
+      "surface_area": 30518.0,
+      "gnp": 249704.0,
+      "name": "Belgium",
+      "head_state": "Albert II",
+      "local_name": "Belgi\u00eb/Belgique",
+      "population": 10239000,
+      "gnp_old": 243948.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5526"
+  },
+  {
+    "identity": 5528,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BJ",
+      "code": "BEN",
+      "independence_year": 1960,
+      "life_expectancy": 50.2,
+      "surface_area": 112622.0,
+      "gnp": 2357.0,
+      "name": "Benin",
+      "head_state": "Mathieu K\u00e9r\u00e9kou",
+      "local_name": "B\u00e9nin",
+      "population": 6097000,
+      "gnp_old": 2141.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5528"
+  },
+  {
+    "identity": 5532,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BF",
+      "code": "BFA",
+      "independence_year": 1960,
+      "life_expectancy": 46.7,
+      "surface_area": 274000.0,
+      "gnp": 2425.0,
+      "name": "Burkina Faso",
+      "head_state": "Blaise Compaor\u00e9",
+      "local_name": "Burkina Faso",
+      "population": 11937000,
+      "gnp_old": 2201.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5532"
+  },
+  {
+    "identity": 5533,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BD",
+      "code": "BGD",
+      "independence_year": 1971,
+      "life_expectancy": 60.2,
+      "surface_area": 143998.0,
+      "gnp": 32852.0,
+      "name": "Bangladesh",
+      "head_state": "Shahabuddin Ahmad",
+      "local_name": "Bangladesh",
+      "population": 129155000,
+      "gnp_old": 31966.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5533"
+  },
+  {
+    "identity": 5535,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BG",
+      "code": "BGR",
+      "independence_year": 1908,
+      "life_expectancy": 70.9,
+      "surface_area": 110994.0,
+      "gnp": 12178.0,
+      "name": "Bulgaria",
+      "head_state": "Petar Stojanov",
+      "local_name": "Balgarija",
+      "population": 8190900,
+      "gnp_old": 10169.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5535"
+  },
+  {
+    "identity": 5541,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BH",
+      "code": "BHR",
+      "independence_year": 1971,
+      "life_expectancy": 73.0,
+      "surface_area": 694.0,
+      "gnp": 6366.0,
+      "name": "Bahrain",
+      "head_state": "Hamad ibn Isa al-Khalifa",
+      "local_name": "Al-Bahrayn",
+      "population": 617000,
+      "gnp_old": 6097.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5541"
+  },
+  {
+    "identity": 5547,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BS",
+      "code": "BHS",
+      "independence_year": 1973,
+      "life_expectancy": 71.1,
+      "surface_area": 13878.0,
+      "gnp": 3527.0,
+      "name": "Bahamas",
+      "head_state": "Elisabeth II",
+      "local_name": "The Bahamas",
+      "population": 307000,
+      "gnp_old": 3347.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5547"
+  },
+  {
+    "identity": 5549,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BA",
+      "code": "BIH",
+      "independence_year": 1992,
+      "life_expectancy": 71.5,
+      "surface_area": 51197.0,
+      "gnp": 2841.0,
+      "name": "Bosnia and Herzegovina",
+      "head_state": "Ante Jelavic",
+      "local_name": "Bosna i Hercegovina",
+      "population": 3972000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5549"
+  },
+  {
+    "identity": 5550,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BY",
+      "code": "BLR",
+      "independence_year": 1991,
+      "surface_area": 207600.0,
+      "life_expectancy": 68.0,
+      "gnp": 13714.0,
+      "name": "Belarus",
+      "head_state": "Aljaksandr Luka\u0161enka",
+      "local_name": "Belarus",
+      "population": 10236000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5550"
+  },
+  {
+    "identity": 5551,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BZ",
+      "code": "BLZ",
+      "independence_year": 1981,
+      "life_expectancy": 70.9,
+      "surface_area": 22696.0,
+      "gnp": 630.0,
+      "name": "Belize",
+      "head_state": "Elisabeth II",
+      "local_name": "Belize",
+      "population": 241000,
+      "gnp_old": 616.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5551"
+  },
+  {
+    "identity": 5553,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BM",
+      "code": "BMU",
+      "life_expectancy": 76.9,
+      "surface_area": 53.0,
+      "gnp": 2328.0,
+      "name": "Bermuda",
+      "head_state": "Elisabeth II",
+      "local_name": "Bermuda",
+      "population": 65000,
+      "gnp_old": 2190.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5553"
+  },
+  {
+    "identity": 5555,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BO",
+      "code": "BOL",
+      "independence_year": 1825,
+      "life_expectancy": 63.7,
+      "surface_area": 1098581.0,
+      "gnp": 8571.0,
+      "name": "Bolivia",
+      "head_state": "Hugo B\u00e1nzer Su\u00e1rez",
+      "local_name": "Bolivia",
+      "population": 8329000,
+      "gnp_old": 7967.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5555"
+  },
+  {
+    "identity": 5556,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BR",
+      "code": "BRA",
+      "independence_year": 1822,
+      "life_expectancy": 62.9,
+      "surface_area": 8547403.0,
+      "gnp": 776739.0,
+      "name": "Brazil",
+      "head_state": "Fernando Henrique Cardoso",
+      "local_name": "Brasil",
+      "population": 170115000,
+      "gnp_old": 804108.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5556"
+  },
+  {
+    "identity": 5557,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BB",
+      "code": "BRB",
+      "independence_year": 1966,
+      "life_expectancy": 73.0,
+      "surface_area": 430.0,
+      "gnp": 2223.0,
+      "name": "Barbados",
+      "head_state": "Elisabeth II",
+      "local_name": "Barbados",
+      "population": 270000,
+      "gnp_old": 2186.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5557"
+  },
+  {
+    "identity": 5558,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BN",
+      "code": "BRN",
+      "independence_year": 1984,
+      "life_expectancy": 73.6,
+      "surface_area": 5765.0,
+      "gnp": 11705.0,
+      "name": "Brunei",
+      "head_state": "Haji Hassan al-Bolkiah",
+      "local_name": "Brunei Darussalam",
+      "population": 328000,
+      "gnp_old": 12460.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5558"
+  },
+  {
+    "identity": 5561,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BT",
+      "code": "BTN",
+      "independence_year": 1910,
+      "life_expectancy": 52.4,
+      "surface_area": 47000.0,
+      "gnp": 372.0,
+      "name": "Bhutan",
+      "head_state": "Jigme Singye Wangchuk",
+      "local_name": "Druk-Yul",
+      "population": 2124000,
+      "gnp_old": 383.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5561"
+  },
+  {
+    "identity": 5563,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BV",
+      "code": "BVT",
+      "surface_area": 59.0,
+      "gnp": 0.0,
+      "name": "Bouvet Island",
+      "head_state": "Harald V",
+      "local_name": "Bouvet\u00f8ya",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5563"
+  },
+  {
+    "identity": 5565,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "BW",
+      "code": "BWA",
+      "independence_year": 1966,
+      "life_expectancy": 39.3,
+      "surface_area": 581730.0,
+      "gnp": 4834.0,
+      "name": "Botswana",
+      "head_state": "Festus G. Mogae",
+      "local_name": "Botswana",
+      "population": 1622000,
+      "gnp_old": 4935.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5565"
+  },
+  {
+    "identity": 5567,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CF",
+      "code": "CAF",
+      "independence_year": 1960,
+      "surface_area": 622984.0,
+      "life_expectancy": 44.0,
+      "gnp": 1054.0,
+      "name": "Central African Republic",
+      "head_state": "Ange-F\u00e9lix Patass\u00e9",
+      "local_name": "Centrafrique/B\u00ea-Afr\u00eeka",
+      "population": 3615000,
+      "gnp_old": 993.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5567"
+  },
+  {
+    "identity": 5568,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CA",
+      "code": "CAN",
+      "independence_year": 1867,
+      "life_expectancy": 79.4,
+      "surface_area": 9970610.0,
+      "gnp": 598862.0,
+      "name": "Canada",
+      "head_state": "Elisabeth II",
+      "local_name": "Canada",
+      "population": 31147000,
+      "gnp_old": 625626.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5568"
+  },
+  {
+    "identity": 5569,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CC",
+      "code": "CCK",
+      "surface_area": 14.0,
+      "name": "Cocos (Keeling) Islands",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "Cocos (Keeling) Islands",
+      "population": 600
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5569"
+  },
+  {
+    "identity": 5571,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CH",
+      "code": "CHE",
+      "independence_year": 1499,
+      "life_expectancy": 79.6,
+      "surface_area": 41284.0,
+      "gnp": 264478.0,
+      "name": "Switzerland",
+      "head_state": "Adolf Ogi",
+      "local_name": "Schweiz/Suisse/Svizzera/Svizra",
+      "population": 7160400,
+      "gnp_old": 256092.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5571"
+  },
+  {
+    "identity": 5573,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CL",
+      "code": "CHL",
+      "independence_year": 1810,
+      "life_expectancy": 75.7,
+      "surface_area": 756626.0,
+      "gnp": 72949.0,
+      "name": "Chile",
+      "head_state": "Ricardo Lagos Escobar",
+      "local_name": "Chile",
+      "population": 15211000,
+      "gnp_old": 75780.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5573"
+  },
+  {
+    "identity": 5574,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CN",
+      "code": "CHN",
+      "independence_year": -1523,
+      "surface_area": 9572900.0,
+      "life_expectancy": 71.4,
+      "gnp": 982268.0,
+      "name": "China",
+      "head_state": "Jiang Zemin",
+      "local_name": "Zhongquo",
+      "population": 1277558000,
+      "gnp_old": 917719.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5574"
+  },
+  {
+    "identity": 5577,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CI",
+      "code": "CIV",
+      "independence_year": 1960,
+      "surface_area": 322463.0,
+      "life_expectancy": 45.2,
+      "gnp": 11345.0,
+      "name": "C\u00f4te d\u2019Ivoire",
+      "head_state": "Laurent Gbagbo",
+      "local_name": "C\u00f4te d\u2019Ivoire",
+      "population": 14786000,
+      "gnp_old": 10285.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5577"
+  },
+  {
+    "identity": 5578,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CM",
+      "code": "CMR",
+      "independence_year": 1960,
+      "life_expectancy": 54.8,
+      "surface_area": 475442.0,
+      "gnp": 9174.0,
+      "name": "Cameroon",
+      "head_state": "Paul Biya",
+      "local_name": "Cameroun/Cameroon",
+      "population": 15085000,
+      "gnp_old": 8596.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5578"
+  },
+  {
+    "identity": 5579,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CD",
+      "code": "COD",
+      "independence_year": 1960,
+      "life_expectancy": 48.8,
+      "surface_area": 2344858.0,
+      "gnp": 6964.0,
+      "name": "Congo, The Democratic Republic of the",
+      "head_state": "Joseph Kabila",
+      "local_name": "R\u00e9publique D\u00e9mocratique du Congo",
+      "population": 51654000,
+      "gnp_old": 2474.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5579"
+  },
+  {
+    "identity": 5580,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CG",
+      "code": "COG",
+      "independence_year": 1960,
+      "life_expectancy": 47.4,
+      "surface_area": 342000.0,
+      "gnp": 2108.0,
+      "name": "Congo",
+      "head_state": "Denis Sassou-Nguesso",
+      "local_name": "Congo",
+      "population": 2943000,
+      "gnp_old": 2287.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5580"
+  },
+  {
+    "identity": 5581,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CK",
+      "code": "COK",
+      "surface_area": 236.0,
+      "life_expectancy": 71.1,
+      "gnp": 100.0,
+      "name": "Cook Islands",
+      "head_state": "Elisabeth II",
+      "local_name": "The Cook Islands",
+      "population": 20000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5581"
+  },
+  {
+    "identity": 5583,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CO",
+      "code": "COL",
+      "independence_year": 1810,
+      "life_expectancy": 70.3,
+      "surface_area": 1138914.0,
+      "gnp": 102896.0,
+      "name": "Colombia",
+      "head_state": "Andr\u00e9s Pastrana Arango",
+      "local_name": "Colombia",
+      "population": 42321000,
+      "gnp_old": 105116.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5583"
+  },
+  {
+    "identity": 5584,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KM",
+      "code": "COM",
+      "independence_year": 1975,
+      "life_expectancy": 60.0,
+      "surface_area": 1862.0,
+      "gnp": 4401.0,
+      "name": "Comoros",
+      "head_state": "Azali Assoumani",
+      "local_name": "Komori/Comores",
+      "population": 578000,
+      "gnp_old": 4361.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5584"
+  },
+  {
+    "identity": 5585,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CV",
+      "code": "CPV",
+      "independence_year": 1975,
+      "life_expectancy": 68.9,
+      "surface_area": 4033.0,
+      "gnp": 435.0,
+      "name": "Cape Verde",
+      "head_state": "Ant\u00f3nio Mascarenhas Monteiro",
+      "local_name": "Cabo Verde",
+      "population": 428000,
+      "gnp_old": 420.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5585"
+  },
+  {
+    "identity": 5586,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CR",
+      "code": "CRI",
+      "independence_year": 1821,
+      "life_expectancy": 75.8,
+      "surface_area": 51100.0,
+      "gnp": 10226.0,
+      "name": "Costa Rica",
+      "head_state": "Miguel \u00c1ngel Rodr\u00edguez Echeverr\u00eda",
+      "local_name": "Costa Rica",
+      "population": 4023000,
+      "gnp_old": 9757.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5586"
+  },
+  {
+    "identity": 5587,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CU",
+      "code": "CUB",
+      "independence_year": 1902,
+      "life_expectancy": 76.2,
+      "surface_area": 110861.0,
+      "gnp": 17843.0,
+      "name": "Cuba",
+      "head_state": "Fidel Castro Ruz",
+      "local_name": "Cuba",
+      "population": 11201000,
+      "gnp_old": 18862.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5587"
+  },
+  {
+    "identity": 5589,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CX",
+      "code": "CXR",
+      "surface_area": 135.0,
+      "name": "Christmas Island",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "Christmas Island",
+      "population": 2500
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5589"
+  },
+  {
+    "identity": 5590,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KY",
+      "code": "CYM",
+      "life_expectancy": 78.9,
+      "surface_area": 264.0,
+      "gnp": 1263.0,
+      "name": "Cayman Islands",
+      "head_state": "Elisabeth II",
+      "local_name": "Cayman Islands",
+      "population": 38000,
+      "gnp_old": 1186.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5590"
+  },
+  {
+    "identity": 5591,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CY",
+      "code": "CYP",
+      "independence_year": 1960,
+      "life_expectancy": 76.7,
+      "surface_area": 9251.0,
+      "gnp": 9333.0,
+      "name": "Cyprus",
+      "head_state": "Glafkos Klerides",
+      "local_name": "K\u00fdpros/Kibris",
+      "population": 754700,
+      "gnp_old": 8246.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5591"
+  },
+  {
+    "identity": 5592,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "CZ",
+      "code": "CZE",
+      "independence_year": 1993,
+      "life_expectancy": 74.5,
+      "surface_area": 78866.0,
+      "gnp": 55017.0,
+      "name": "Czech Republic",
+      "head_state": "V\u00e1clav Havel",
+      "local_name": "\u00b8esko",
+      "population": 10278100,
+      "gnp_old": 52037.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5592"
+  },
+  {
+    "identity": 5593,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "DE",
+      "code": "DEU",
+      "independence_year": 1955,
+      "life_expectancy": 77.4,
+      "surface_area": 357022.0,
+      "gnp": 2133367.0,
+      "name": "Germany",
+      "head_state": "Johannes Rau",
+      "local_name": "Deutschland",
+      "population": 82164700,
+      "gnp_old": 2102826.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5593"
+  },
+  {
+    "identity": 5594,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "DJ",
+      "code": "DJI",
+      "independence_year": 1977,
+      "life_expectancy": 50.8,
+      "surface_area": 23200.0,
+      "gnp": 382.0,
+      "name": "Djibouti",
+      "head_state": "Ismail Omar Guelleh",
+      "local_name": "Djibouti/Jibuti",
+      "population": 638000,
+      "gnp_old": 373.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5594"
+  },
+  {
+    "identity": 5595,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "DM",
+      "code": "DMA",
+      "independence_year": 1978,
+      "life_expectancy": 73.4,
+      "surface_area": 751.0,
+      "gnp": 256.0,
+      "name": "Dominica",
+      "head_state": "Vernon Shaw",
+      "local_name": "Dominica",
+      "population": 71000,
+      "gnp_old": 243.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5595"
+  },
+  {
+    "identity": 5596,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "DK",
+      "code": "DNK",
+      "independence_year": 800,
+      "life_expectancy": 76.5,
+      "surface_area": 43094.0,
+      "gnp": 174099.0,
+      "name": "Denmark",
+      "head_state": "Margrethe II",
+      "local_name": "Danmark",
+      "population": 5330000,
+      "gnp_old": 169264.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5596"
+  },
+  {
+    "identity": 5598,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "DO",
+      "code": "DOM",
+      "independence_year": 1844,
+      "surface_area": 48511.0,
+      "life_expectancy": 73.2,
+      "gnp": 15846.0,
+      "name": "Dominican Republic",
+      "head_state": "Hip\u00f3lito Mej\u00eda Dom\u00ednguez",
+      "local_name": "Rep\u00fablica Dominicana",
+      "population": 8495000,
+      "gnp_old": 15076.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5598"
+  },
+  {
+    "identity": 5599,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "DZ",
+      "code": "DZA",
+      "independence_year": 1962,
+      "life_expectancy": 69.7,
+      "surface_area": 2381741.0,
+      "gnp": 49982.0,
+      "name": "Algeria",
+      "head_state": "Abdelaziz Bouteflika",
+      "local_name": "Al-Jaza\u2019ir/Alg\u00e9rie",
+      "population": 31471000,
+      "gnp_old": 46966.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5599"
+  },
+  {
+    "identity": 5601,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "EC",
+      "code": "ECU",
+      "independence_year": 1822,
+      "life_expectancy": 71.1,
+      "surface_area": 283561.0,
+      "gnp": 19770.0,
+      "name": "Ecuador",
+      "head_state": "Gustavo Noboa Bejarano",
+      "local_name": "Ecuador",
+      "population": 12646000,
+      "gnp_old": 19769.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5601"
+  },
+  {
+    "identity": 5602,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "EG",
+      "code": "EGY",
+      "independence_year": 1922,
+      "life_expectancy": 63.3,
+      "surface_area": 1001449.0,
+      "gnp": 82710.0,
+      "name": "Egypt",
+      "head_state": "Hosni Mubarak",
+      "local_name": "Misr",
+      "population": 68470000,
+      "gnp_old": 75617.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5602"
+  },
+  {
+    "identity": 5603,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ER",
+      "code": "ERI",
+      "independence_year": 1993,
+      "life_expectancy": 55.8,
+      "surface_area": 117600.0,
+      "gnp": 650.0,
+      "name": "Eritrea",
+      "head_state": "Isayas Afewerki [Isaias Afwerki]",
+      "local_name": "Ertra",
+      "population": 3850000,
+      "gnp_old": 755.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5603"
+  },
+  {
+    "identity": 5604,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "EH",
+      "code": "ESH",
+      "surface_area": 266000.0,
+      "life_expectancy": 49.8,
+      "gnp": 60.0,
+      "name": "Western Sahara",
+      "head_state": "Mohammed Abdel Aziz",
+      "local_name": "As-Sahrawiya",
+      "population": 293000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5604"
+  },
+  {
+    "identity": 5606,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ES",
+      "code": "ESP",
+      "independence_year": 1492,
+      "life_expectancy": 78.8,
+      "surface_area": 505992.0,
+      "gnp": 553233.0,
+      "name": "Spain",
+      "head_state": "Juan Carlos I",
+      "local_name": "Espa\u00f1a",
+      "population": 39441700,
+      "gnp_old": 532031.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5606"
+  },
+  {
+    "identity": 5607,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "EE",
+      "code": "EST",
+      "independence_year": 1991,
+      "life_expectancy": 69.5,
+      "surface_area": 45227.0,
+      "gnp": 5328.0,
+      "name": "Estonia",
+      "head_state": "Lennart Meri",
+      "local_name": "Eesti",
+      "population": 1439200,
+      "gnp_old": 3371.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5607"
+  },
+  {
+    "identity": 5609,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ET",
+      "code": "ETH",
+      "independence_year": -1000,
+      "surface_area": 1104300.0,
+      "life_expectancy": 45.2,
+      "gnp": 6353.0,
+      "name": "Ethiopia",
+      "head_state": "Negasso Gidada",
+      "local_name": "YeItyop\u00b4iya",
+      "population": 62565000,
+      "gnp_old": 6180.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5609"
+  },
+  {
+    "identity": 5610,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "FI",
+      "code": "FIN",
+      "independence_year": 1917,
+      "life_expectancy": 77.4,
+      "surface_area": 338145.0,
+      "gnp": 121914.0,
+      "name": "Finland",
+      "head_state": "Tarja Halonen",
+      "local_name": "Suomi",
+      "population": 5171300,
+      "gnp_old": 119833.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5610"
+  },
+  {
+    "identity": 5611,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "FJ",
+      "code": "FJI",
+      "independence_year": 1970,
+      "life_expectancy": 67.9,
+      "surface_area": 18274.0,
+      "gnp": 1536.0,
+      "name": "Fiji Islands",
+      "head_state": "Josefa Iloilo",
+      "local_name": "Fiji Islands",
+      "population": 817000,
+      "gnp_old": 2149.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5611"
+  },
+  {
+    "identity": 5613,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "FK",
+      "code": "FLK",
+      "surface_area": 12173.0,
+      "name": "Falkland Islands",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "Falkland Islands",
+      "population": 2000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5613"
+  },
+  {
+    "identity": 5614,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "FR",
+      "code": "FRA",
+      "independence_year": 843,
+      "life_expectancy": 78.8,
+      "surface_area": 551500.0,
+      "gnp": 1424285.0,
+      "name": "France",
+      "head_state": "Jacques Chirac",
+      "local_name": "France",
+      "population": 59225700,
+      "gnp_old": 1392448.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5614"
+  },
+  {
+    "identity": 5615,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "FO",
+      "code": "FRO",
+      "surface_area": 1399.0,
+      "life_expectancy": 78.4,
+      "gnp": 0.0,
+      "name": "Faroe Islands",
+      "head_state": "Margrethe II",
+      "local_name": "F\u00f8royar",
+      "population": 43000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5615"
+  },
+  {
+    "identity": 5617,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "FM",
+      "code": "FSM",
+      "independence_year": 1990,
+      "life_expectancy": 68.6,
+      "surface_area": 702.0,
+      "gnp": 212.0,
+      "name": "Micronesia, Federated States of",
+      "head_state": "Leo A. Falcam",
+      "local_name": "Micronesia",
+      "population": 119000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5617"
+  },
+  {
+    "identity": 5619,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GA",
+      "code": "GAB",
+      "independence_year": 1960,
+      "life_expectancy": 50.1,
+      "surface_area": 267668.0,
+      "gnp": 5493.0,
+      "name": "Gabon",
+      "head_state": "Omar Bongo",
+      "local_name": "Le Gabon",
+      "population": 1226000,
+      "gnp_old": 5279.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5619"
+  },
+  {
+    "identity": 5620,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GB",
+      "code": "GBR",
+      "independence_year": 1066,
+      "life_expectancy": 77.7,
+      "surface_area": 242900.0,
+      "gnp": 1378330.0,
+      "name": "United Kingdom",
+      "head_state": "Elisabeth II",
+      "local_name": "United Kingdom",
+      "population": 59623400,
+      "gnp_old": 1296830.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5620"
+  },
+  {
+    "identity": 5622,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GE",
+      "code": "GEO",
+      "independence_year": 1991,
+      "life_expectancy": 64.5,
+      "surface_area": 69700.0,
+      "gnp": 6064.0,
+      "name": "Georgia",
+      "head_state": "Eduard \u0160evardnadze",
+      "local_name": "Sakartvelo",
+      "population": 4968000,
+      "gnp_old": 5924.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5622"
+  },
+  {
+    "identity": 5623,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GH",
+      "code": "GHA",
+      "independence_year": 1957,
+      "life_expectancy": 57.4,
+      "surface_area": 238533.0,
+      "gnp": 7137.0,
+      "name": "Ghana",
+      "head_state": "John Kufuor",
+      "local_name": "Ghana",
+      "population": 20212000,
+      "gnp_old": 6884.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5623"
+  },
+  {
+    "identity": 5624,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GI",
+      "code": "GIB",
+      "surface_area": 6.0,
+      "life_expectancy": 79.0,
+      "gnp": 258.0,
+      "name": "Gibraltar",
+      "head_state": "Elisabeth II",
+      "local_name": "Gibraltar",
+      "population": 25000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5624"
+  },
+  {
+    "identity": 5625,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GN",
+      "code": "GIN",
+      "independence_year": 1958,
+      "life_expectancy": 45.6,
+      "surface_area": 245857.0,
+      "gnp": 2352.0,
+      "name": "Guinea",
+      "head_state": "Lansana Cont\u00e9",
+      "local_name": "Guin\u00e9e",
+      "population": 7430000,
+      "gnp_old": 2383.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5625"
+  },
+  {
+    "identity": 5626,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GP",
+      "code": "GLP",
+      "surface_area": 1705.0,
+      "life_expectancy": 77.0,
+      "gnp": 3501.0,
+      "name": "Guadeloupe",
+      "head_state": "Jacques Chirac",
+      "local_name": "Guadeloupe",
+      "population": 456000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5626"
+  },
+  {
+    "identity": 5628,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GM",
+      "code": "GMB",
+      "independence_year": 1965,
+      "life_expectancy": 53.2,
+      "surface_area": 11295.0,
+      "gnp": 320.0,
+      "name": "Gambia",
+      "head_state": "Yahya Jammeh",
+      "local_name": "The Gambia",
+      "population": 1305000,
+      "gnp_old": 325.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5628"
+  },
+  {
+    "identity": 5629,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GW",
+      "code": "GNB",
+      "independence_year": 1974,
+      "life_expectancy": 49.0,
+      "surface_area": 36125.0,
+      "gnp": 293.0,
+      "name": "Guinea-Bissau",
+      "head_state": "Kumba Ial\u00e1",
+      "local_name": "Guin\u00e9-Bissau",
+      "population": 1213000,
+      "gnp_old": 272.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5629"
+  },
+  {
+    "identity": 5630,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GQ",
+      "code": "GNQ",
+      "independence_year": 1968,
+      "surface_area": 28051.0,
+      "life_expectancy": 53.6,
+      "gnp": 283.0,
+      "name": "Equatorial Guinea",
+      "head_state": "Teodoro Obiang Nguema Mbasogo",
+      "local_name": "Guinea Ecuatorial",
+      "population": 453000,
+      "gnp_old": 542.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5630"
+  },
+  {
+    "identity": 5631,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GR",
+      "code": "GRC",
+      "independence_year": 1830,
+      "life_expectancy": 78.4,
+      "surface_area": 131626.0,
+      "gnp": 120724.0,
+      "name": "Greece",
+      "head_state": "Kostis Stefanopoulos",
+      "local_name": "Ell\u00e1da",
+      "population": 10545700,
+      "gnp_old": 119946.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5631"
+  },
+  {
+    "identity": 5632,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GD",
+      "code": "GRD",
+      "independence_year": 1974,
+      "surface_area": 344.0,
+      "life_expectancy": 64.5,
+      "gnp": 318.0,
+      "name": "Grenada",
+      "head_state": "Elisabeth II",
+      "local_name": "Grenada",
+      "population": 94000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5632"
+  },
+  {
+    "identity": 5633,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GL",
+      "code": "GRL",
+      "surface_area": 2166090.0,
+      "life_expectancy": 68.1,
+      "gnp": 0.0,
+      "name": "Greenland",
+      "head_state": "Margrethe II",
+      "local_name": "Kalaallit Nunaat/Gr\u00f8nland",
+      "population": 56000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5633"
+  },
+  {
+    "identity": 5634,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GT",
+      "code": "GTM",
+      "independence_year": 1821,
+      "life_expectancy": 66.2,
+      "surface_area": 108889.0,
+      "gnp": 19008.0,
+      "name": "Guatemala",
+      "head_state": "Alfonso Portillo Cabrera",
+      "local_name": "Guatemala",
+      "population": 11385000,
+      "gnp_old": 17797.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5634"
+  },
+  {
+    "identity": 5635,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GF",
+      "code": "GUF",
+      "surface_area": 90000.0,
+      "life_expectancy": 76.1,
+      "gnp": 681.0,
+      "name": "French Guiana",
+      "head_state": "Jacques Chirac",
+      "local_name": "Guyane fran\u00e7aise",
+      "population": 181000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5635"
+  },
+  {
+    "identity": 5636,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GU",
+      "code": "GUM",
+      "surface_area": 549.0,
+      "life_expectancy": 77.8,
+      "gnp": 1197.0,
+      "name": "Guam",
+      "head_state": "George W. Bush",
+      "local_name": "Guam",
+      "population": 168000,
+      "gnp_old": 1136.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5636"
+  },
+  {
+    "identity": 5637,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GY",
+      "code": "GUY",
+      "independence_year": 1966,
+      "life_expectancy": 64.0,
+      "surface_area": 214969.0,
+      "gnp": 722.0,
+      "name": "Guyana",
+      "head_state": "Bharrat Jagdeo",
+      "local_name": "Guyana",
+      "population": 861000,
+      "gnp_old": 743.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5637"
+  },
+  {
+    "identity": 5638,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "HK",
+      "code": "HKG",
+      "life_expectancy": 79.5,
+      "surface_area": 1075.0,
+      "gnp": 166448.0,
+      "name": "Hong Kong",
+      "head_state": "Jiang Zemin",
+      "local_name": "Xianggang/Hong Kong",
+      "population": 6782000,
+      "gnp_old": 173610.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5638"
+  },
+  {
+    "identity": 5640,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "HM",
+      "code": "HMD",
+      "surface_area": 359.0,
+      "name": "Heard Island and McDonald Islands",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "Heard and McDonald Islands",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5640"
+  },
+  {
+    "identity": 5641,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "HN",
+      "code": "HND",
+      "independence_year": 1838,
+      "life_expectancy": 69.9,
+      "surface_area": 112088.0,
+      "gnp": 5333.0,
+      "name": "Honduras",
+      "head_state": "Carlos Roberto Flores Facuss\u00e9",
+      "local_name": "Honduras",
+      "population": 6485000,
+      "gnp_old": 4697.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5641"
+  },
+  {
+    "identity": 5642,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "HR",
+      "code": "HRV",
+      "independence_year": 1991,
+      "life_expectancy": 73.7,
+      "surface_area": 56538.0,
+      "gnp": 20208.0,
+      "name": "Croatia",
+      "head_state": "\u0160tipe Mesic",
+      "local_name": "Hrvatska",
+      "population": 4473000,
+      "gnp_old": 19300.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5642"
+  },
+  {
+    "identity": 5643,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "HT",
+      "code": "HTI",
+      "independence_year": 1804,
+      "life_expectancy": 49.2,
+      "surface_area": 27750.0,
+      "gnp": 3459.0,
+      "name": "Haiti",
+      "head_state": "Jean-Bertrand Aristide",
+      "local_name": "Ha\u00efti/Dayti",
+      "population": 8222000,
+      "gnp_old": 3107.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5643"
+  },
+  {
+    "identity": 5644,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "HU",
+      "code": "HUN",
+      "independence_year": 1918,
+      "life_expectancy": 71.4,
+      "surface_area": 93030.0,
+      "gnp": 48267.0,
+      "name": "Hungary",
+      "head_state": "Ferenc M\u00e1dl",
+      "local_name": "Magyarorsz\u00e1g",
+      "population": 10043200,
+      "gnp_old": 45914.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5644"
+  },
+  {
+    "identity": 5645,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ID",
+      "code": "IDN",
+      "independence_year": 1945,
+      "life_expectancy": 68.0,
+      "surface_area": 1904569.0,
+      "gnp": 84982.0,
+      "name": "Indonesia",
+      "head_state": "Abdurrahman Wahid",
+      "local_name": "Indonesia",
+      "population": 212107000,
+      "gnp_old": 215002.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5645"
+  },
+  {
+    "identity": 5646,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IN",
+      "code": "IND",
+      "independence_year": 1947,
+      "life_expectancy": 62.5,
+      "surface_area": 3287263.0,
+      "gnp": 447114.0,
+      "name": "India",
+      "head_state": "Kocheril Raman Narayanan",
+      "local_name": "Bharat/India",
+      "population": 1013662000,
+      "gnp_old": 430572.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5646"
+  },
+  {
+    "identity": 5647,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IO",
+      "code": "IOT",
+      "surface_area": 78.0,
+      "name": "British Indian Ocean Territory",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "British Indian Ocean Territory",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5647"
+  },
+  {
+    "identity": 5648,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IE",
+      "code": "IRL",
+      "independence_year": 1921,
+      "life_expectancy": 76.8,
+      "surface_area": 70273.0,
+      "gnp": 75921.0,
+      "name": "Ireland",
+      "head_state": "Mary McAleese",
+      "local_name": "Ireland/\u00c9ire",
+      "population": 3775100,
+      "gnp_old": 73132.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5648"
+  },
+  {
+    "identity": 5649,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IR",
+      "code": "IRN",
+      "independence_year": 1906,
+      "life_expectancy": 69.7,
+      "surface_area": 1648195.0,
+      "gnp": 195746.0,
+      "name": "Iran",
+      "head_state": "Ali Mohammad Khatami-Ardakani",
+      "local_name": "Iran",
+      "population": 67702000,
+      "gnp_old": 160151.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5649"
+  },
+  {
+    "identity": 5651,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IQ",
+      "code": "IRQ",
+      "independence_year": 1932,
+      "surface_area": 438317.0,
+      "life_expectancy": 66.5,
+      "gnp": 11500.0,
+      "name": "Iraq",
+      "head_state": "Saddam Hussein al-Takriti",
+      "local_name": "Al-\u00b4Iraq",
+      "population": 23115000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5651"
+  },
+  {
+    "identity": 5652,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IS",
+      "code": "ISL",
+      "independence_year": 1944,
+      "life_expectancy": 79.4,
+      "surface_area": 103000.0,
+      "gnp": 8255.0,
+      "name": "Iceland",
+      "head_state": "\u00d3lafur Ragnar Gr\u00edmsson",
+      "local_name": "\u00cdsland",
+      "population": 279000,
+      "gnp_old": 7474.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5652"
+  },
+  {
+    "identity": 5653,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IL",
+      "code": "ISR",
+      "independence_year": 1948,
+      "life_expectancy": 78.6,
+      "surface_area": 21056.0,
+      "gnp": 97477.0,
+      "name": "Israel",
+      "head_state": "Moshe Katzav",
+      "local_name": "Yisra\u2019el/Isra\u2019il",
+      "population": 6217000,
+      "gnp_old": 98577.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5653"
+  },
+  {
+    "identity": 5654,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "IT",
+      "code": "ITA",
+      "independence_year": 1861,
+      "life_expectancy": 79.0,
+      "surface_area": 301316.0,
+      "gnp": 1161755.0,
+      "name": "Italy",
+      "head_state": "Carlo Azeglio Ciampi",
+      "local_name": "Italia",
+      "population": 57680000,
+      "gnp_old": 1145372.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5654"
+  },
+  {
+    "identity": 5655,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "JM",
+      "code": "JAM",
+      "independence_year": 1962,
+      "life_expectancy": 75.2,
+      "surface_area": 10990.0,
+      "gnp": 6871.0,
+      "name": "Jamaica",
+      "head_state": "Elisabeth II",
+      "local_name": "Jamaica",
+      "population": 2583000,
+      "gnp_old": 6722.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5655"
+  },
+  {
+    "identity": 5656,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "JO",
+      "code": "JOR",
+      "independence_year": 1946,
+      "life_expectancy": 77.4,
+      "surface_area": 88946.0,
+      "gnp": 7526.0,
+      "name": "Jordan",
+      "head_state": "Abdullah II",
+      "local_name": "Al-Urdunn",
+      "population": 5083000,
+      "gnp_old": 7051.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5656"
+  },
+  {
+    "identity": 5657,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "JP",
+      "code": "JPN",
+      "independence_year": -660,
+      "surface_area": 377829.0,
+      "life_expectancy": 80.7,
+      "gnp": 3787042.0,
+      "name": "Japan",
+      "head_state": "Akihito",
+      "local_name": "Nihon/Nippon",
+      "population": 126714000,
+      "gnp_old": 4192638.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5657"
+  },
+  {
+    "identity": 5658,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KZ",
+      "code": "KAZ",
+      "independence_year": 1991,
+      "life_expectancy": 63.2,
+      "surface_area": 2724900.0,
+      "gnp": 24375.0,
+      "name": "Kazakstan",
+      "head_state": "Nursultan Nazarbajev",
+      "local_name": "Qazaqstan",
+      "population": 16223000,
+      "gnp_old": 23383.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5658"
+  },
+  {
+    "identity": 5659,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KE",
+      "code": "KEN",
+      "independence_year": 1963,
+      "life_expectancy": 48.0,
+      "surface_area": 580367.0,
+      "gnp": 9217.0,
+      "name": "Kenya",
+      "head_state": "Daniel arap Moi",
+      "local_name": "Kenya",
+      "population": 30080000,
+      "gnp_old": 10241.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5659"
+  },
+  {
+    "identity": 5660,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KG",
+      "code": "KGZ",
+      "independence_year": 1991,
+      "life_expectancy": 63.4,
+      "surface_area": 199900.0,
+      "gnp": 1626.0,
+      "name": "Kyrgyzstan",
+      "head_state": "Askar Akajev",
+      "local_name": "Kyrgyzstan",
+      "population": 4699000,
+      "gnp_old": 1767.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5660"
+  },
+  {
+    "identity": 5661,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KH",
+      "code": "KHM",
+      "independence_year": 1953,
+      "life_expectancy": 56.5,
+      "surface_area": 181035.0,
+      "gnp": 5121.0,
+      "name": "Cambodia",
+      "head_state": "Norodom Sihanouk",
+      "local_name": "K\u00e2mpuch\u00e9a",
+      "population": 11168000,
+      "gnp_old": 5670.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5661"
+  },
+  {
+    "identity": 5662,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KI",
+      "code": "KIR",
+      "independence_year": 1979,
+      "surface_area": 726.0,
+      "life_expectancy": 59.8,
+      "gnp": 40.7,
+      "name": "Kiribati",
+      "head_state": "Teburoro Tito",
+      "local_name": "Kiribati",
+      "population": 83000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5662"
+  },
+  {
+    "identity": 5663,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KN",
+      "code": "KNA",
+      "independence_year": 1983,
+      "life_expectancy": 70.7,
+      "surface_area": 261.0,
+      "gnp": 299.0,
+      "name": "Saint Kitts and Nevis",
+      "head_state": "Elisabeth II",
+      "local_name": "Saint Kitts and Nevis",
+      "population": 38000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5663"
+  },
+  {
+    "identity": 5664,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KR",
+      "code": "KOR",
+      "independence_year": 1948,
+      "life_expectancy": 74.4,
+      "surface_area": 99434.0,
+      "gnp": 320749.0,
+      "name": "South Korea",
+      "head_state": "Kim Dae-jung",
+      "local_name": "Taehan Min\u2019guk (Namhan)",
+      "population": 46844000,
+      "gnp_old": 442544.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5664"
+  },
+  {
+    "identity": 5665,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KW",
+      "code": "KWT",
+      "independence_year": 1961,
+      "life_expectancy": 76.1,
+      "surface_area": 17818.0,
+      "gnp": 27037.0,
+      "name": "Kuwait",
+      "head_state": "Jabir al-Ahmad al-Jabir al-Sabah",
+      "local_name": "Al-Kuwayt",
+      "population": 1972000,
+      "gnp_old": 30373.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5665"
+  },
+  {
+    "identity": 5667,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LA",
+      "code": "LAO",
+      "independence_year": 1953,
+      "life_expectancy": 53.1,
+      "surface_area": 236800.0,
+      "gnp": 1292.0,
+      "name": "Laos",
+      "head_state": "Khamtay Siphandone",
+      "local_name": "Lao",
+      "population": 5433000,
+      "gnp_old": 1746.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5667"
+  },
+  {
+    "identity": 5668,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LB",
+      "code": "LBN",
+      "independence_year": 1941,
+      "life_expectancy": 71.3,
+      "surface_area": 10400.0,
+      "gnp": 17121.0,
+      "name": "Lebanon",
+      "head_state": "\u00c9mile Lahoud",
+      "local_name": "Lubnan",
+      "population": 3282000,
+      "gnp_old": 15129.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5668"
+  },
+  {
+    "identity": 5669,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LR",
+      "code": "LBR",
+      "independence_year": 1847,
+      "surface_area": 111369.0,
+      "life_expectancy": 51.0,
+      "gnp": 2012.0,
+      "name": "Liberia",
+      "head_state": "Charles Taylor",
+      "local_name": "Liberia",
+      "population": 3154000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5669"
+  },
+  {
+    "identity": 5670,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LY",
+      "code": "LBY",
+      "independence_year": 1951,
+      "surface_area": 1759540.0,
+      "life_expectancy": 75.5,
+      "gnp": 44806.0,
+      "name": "Libyan Arab Jamahiriya",
+      "head_state": "Muammar al-Qadhafi",
+      "local_name": "Libiya",
+      "population": 5605000,
+      "gnp_old": 40562.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5670"
+  },
+  {
+    "identity": 5672,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LC",
+      "code": "LCA",
+      "independence_year": 1979,
+      "surface_area": 622.0,
+      "life_expectancy": 72.3,
+      "gnp": 571.0,
+      "name": "Saint Lucia",
+      "head_state": "Elisabeth II",
+      "local_name": "Saint Lucia",
+      "population": 154000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5672"
+  },
+  {
+    "identity": 5673,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LI",
+      "code": "LIE",
+      "independence_year": 1806,
+      "life_expectancy": 78.8,
+      "surface_area": 160.0,
+      "gnp": 1119.0,
+      "name": "Liechtenstein",
+      "head_state": "Hans-Adam II",
+      "local_name": "Liechtenstein",
+      "population": 32300,
+      "gnp_old": 1084.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5673"
+  },
+  {
+    "identity": 5674,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LK",
+      "code": "LKA",
+      "independence_year": 1948,
+      "life_expectancy": 71.8,
+      "surface_area": 65610.0,
+      "gnp": 15706.0,
+      "name": "Sri Lanka",
+      "head_state": "Chandrika Kumaratunga",
+      "local_name": "Sri Lanka/Ilankai",
+      "population": 18827000,
+      "gnp_old": 15091.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5674"
+  },
+  {
+    "identity": 5675,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LS",
+      "code": "LSO",
+      "independence_year": 1966,
+      "life_expectancy": 50.8,
+      "surface_area": 30355.0,
+      "gnp": 1061.0,
+      "name": "Lesotho",
+      "head_state": "Letsie III",
+      "local_name": "Lesotho",
+      "population": 2153000,
+      "gnp_old": 1161.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5675"
+  },
+  {
+    "identity": 5676,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LT",
+      "code": "LTU",
+      "independence_year": 1991,
+      "life_expectancy": 69.1,
+      "surface_area": 65301.0,
+      "gnp": 10692.0,
+      "name": "Lithuania",
+      "head_state": "Valdas Adamkus",
+      "local_name": "Lietuva",
+      "population": 3698500,
+      "gnp_old": 9585.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5676"
+  },
+  {
+    "identity": 5677,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LU",
+      "code": "LUX",
+      "independence_year": 1867,
+      "life_expectancy": 77.1,
+      "surface_area": 2586.0,
+      "gnp": 16321.0,
+      "name": "Luxembourg",
+      "head_state": "Henri",
+      "local_name": "Luxembourg/L\u00ebtzebuerg",
+      "population": 435700,
+      "gnp_old": 15519.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5677"
+  },
+  {
+    "identity": 5678,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "LV",
+      "code": "LVA",
+      "independence_year": 1991,
+      "life_expectancy": 68.4,
+      "surface_area": 64589.0,
+      "gnp": 6398.0,
+      "name": "Latvia",
+      "head_state": "Vaira Vike-Freiberga",
+      "local_name": "Latvija",
+      "population": 2424200,
+      "gnp_old": 5639.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5678"
+  },
+  {
+    "identity": 5679,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MO",
+      "code": "MAC",
+      "life_expectancy": 81.6,
+      "surface_area": 18.0,
+      "gnp": 5749.0,
+      "name": "Macao",
+      "head_state": "Jiang Zemin",
+      "local_name": "Macau/Aomen",
+      "population": 473000,
+      "gnp_old": 5940.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5679"
+  },
+  {
+    "identity": 5680,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MA",
+      "code": "MAR",
+      "independence_year": 1956,
+      "life_expectancy": 69.1,
+      "surface_area": 446550.0,
+      "gnp": 36124.0,
+      "name": "Morocco",
+      "head_state": "Mohammed VI",
+      "local_name": "Al-Maghrib",
+      "population": 28351000,
+      "gnp_old": 33514.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5680"
+  },
+  {
+    "identity": 5681,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MC",
+      "code": "MCO",
+      "independence_year": 1861,
+      "surface_area": 1.5,
+      "life_expectancy": 78.8,
+      "gnp": 776.0,
+      "name": "Monaco",
+      "head_state": "Rainier III",
+      "local_name": "Monaco",
+      "population": 34000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5681"
+  },
+  {
+    "identity": 5682,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MD",
+      "code": "MDA",
+      "independence_year": 1991,
+      "life_expectancy": 64.5,
+      "surface_area": 33851.0,
+      "gnp": 1579.0,
+      "name": "Moldova",
+      "head_state": "Vladimir Voronin",
+      "local_name": "Moldova",
+      "population": 4380000,
+      "gnp_old": 1872.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5682"
+  },
+  {
+    "identity": 5683,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MG",
+      "code": "MDG",
+      "independence_year": 1960,
+      "life_expectancy": 55.0,
+      "surface_area": 587041.0,
+      "gnp": 3750.0,
+      "name": "Madagascar",
+      "head_state": "Didier Ratsiraka",
+      "local_name": "Madagasikara/Madagascar",
+      "population": 15942000,
+      "gnp_old": 3545.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5683"
+  },
+  {
+    "identity": 5684,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MV",
+      "code": "MDV",
+      "independence_year": 1965,
+      "surface_area": 298.0,
+      "life_expectancy": 62.2,
+      "gnp": 199.0,
+      "name": "Maldives",
+      "head_state": "Maumoon Abdul Gayoom",
+      "local_name": "Dhivehi Raajje/Maldives",
+      "population": 286000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5684"
+  },
+  {
+    "identity": 5685,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MX",
+      "code": "MEX",
+      "independence_year": 1810,
+      "life_expectancy": 71.5,
+      "surface_area": 1958201.0,
+      "gnp": 414972.0,
+      "name": "Mexico",
+      "head_state": "Vicente Fox Quesada",
+      "local_name": "M\u00e9xico",
+      "population": 98881000,
+      "gnp_old": 401461.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5685"
+  },
+  {
+    "identity": 5686,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MH",
+      "code": "MHL",
+      "independence_year": 1990,
+      "life_expectancy": 65.5,
+      "surface_area": 181.0,
+      "gnp": 97.0,
+      "name": "Marshall Islands",
+      "head_state": "Kessai Note",
+      "local_name": "Marshall Islands/Majol",
+      "population": 64000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5686"
+  },
+  {
+    "identity": 5687,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MK",
+      "code": "MKD",
+      "independence_year": 1991,
+      "life_expectancy": 73.8,
+      "surface_area": 25713.0,
+      "gnp": 1694.0,
+      "name": "Macedonia",
+      "head_state": "Boris Trajkovski",
+      "local_name": "Makedonija",
+      "population": 2024000,
+      "gnp_old": 1915.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5687"
+  },
+  {
+    "identity": 5688,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ML",
+      "code": "MLI",
+      "independence_year": 1960,
+      "life_expectancy": 46.7,
+      "surface_area": 1240192.0,
+      "gnp": 2642.0,
+      "name": "Mali",
+      "head_state": "Alpha Oumar Konar\u00e9",
+      "local_name": "Mali",
+      "population": 11234000,
+      "gnp_old": 2453.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5688"
+  },
+  {
+    "identity": 5689,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MT",
+      "code": "MLT",
+      "independence_year": 1964,
+      "life_expectancy": 77.9,
+      "surface_area": 316.0,
+      "gnp": 3512.0,
+      "name": "Malta",
+      "head_state": "Guido de Marco",
+      "local_name": "Malta",
+      "population": 380200,
+      "gnp_old": 3338.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5689"
+  },
+  {
+    "identity": 5690,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MM",
+      "code": "MMR",
+      "independence_year": 1948,
+      "life_expectancy": 54.9,
+      "surface_area": 676578.0,
+      "gnp": 180375.0,
+      "name": "Myanmar",
+      "head_state": "kenraali Than Shwe",
+      "local_name": "Myanma Pye",
+      "population": 45611000,
+      "gnp_old": 171028.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5690"
+  },
+  {
+    "identity": 5691,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MN",
+      "code": "MNG",
+      "independence_year": 1921,
+      "life_expectancy": 67.3,
+      "surface_area": 1566500.0,
+      "gnp": 1043.0,
+      "name": "Mongolia",
+      "head_state": "Natsagiin Bagabandi",
+      "local_name": "Mongol Uls",
+      "population": 2662000,
+      "gnp_old": 933.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5691"
+  },
+  {
+    "identity": 5692,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MP",
+      "code": "MNP",
+      "surface_area": 464.0,
+      "life_expectancy": 75.5,
+      "gnp": 0.0,
+      "name": "Northern Mariana Islands",
+      "head_state": "George W. Bush",
+      "local_name": "Northern Mariana Islands",
+      "population": 78000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5692"
+  },
+  {
+    "identity": 5694,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MZ",
+      "code": "MOZ",
+      "independence_year": 1975,
+      "life_expectancy": 37.5,
+      "surface_area": 801590.0,
+      "gnp": 2891.0,
+      "name": "Mozambique",
+      "head_state": "Joaqu\u00edm A. Chissano",
+      "local_name": "Mo\u00e7ambique",
+      "population": 19680000,
+      "gnp_old": 2711.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5694"
+  },
+  {
+    "identity": 5695,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MR",
+      "code": "MRT",
+      "independence_year": 1960,
+      "life_expectancy": 50.8,
+      "surface_area": 1025520.0,
+      "gnp": 998.0,
+      "name": "Mauritania",
+      "head_state": "Maaouiya Ould Sid\u00b4Ahmad Taya",
+      "local_name": "Muritaniya/Mauritanie",
+      "population": 2670000,
+      "gnp_old": 1081.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5695"
+  },
+  {
+    "identity": 5696,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MS",
+      "code": "MSR",
+      "surface_area": 102.0,
+      "life_expectancy": 78.0,
+      "gnp": 109.0,
+      "name": "Montserrat",
+      "head_state": "Elisabeth II",
+      "local_name": "Montserrat",
+      "population": 11000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5696"
+  },
+  {
+    "identity": 5697,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MQ",
+      "code": "MTQ",
+      "life_expectancy": 78.3,
+      "surface_area": 1102.0,
+      "gnp": 2731.0,
+      "name": "Martinique",
+      "head_state": "Jacques Chirac",
+      "local_name": "Martinique",
+      "population": 395000,
+      "gnp_old": 2559.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5697"
+  },
+  {
+    "identity": 5698,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MU",
+      "code": "MUS",
+      "independence_year": 1968,
+      "life_expectancy": 71.0,
+      "surface_area": 2040.0,
+      "gnp": 4251.0,
+      "name": "Mauritius",
+      "head_state": "Cassam Uteem",
+      "local_name": "Mauritius",
+      "population": 1158000,
+      "gnp_old": 4186.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5698"
+  },
+  {
+    "identity": 5699,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MW",
+      "code": "MWI",
+      "independence_year": 1964,
+      "life_expectancy": 37.6,
+      "surface_area": 118484.0,
+      "gnp": 1687.0,
+      "name": "Malawi",
+      "head_state": "Bakili Muluzi",
+      "local_name": "Malawi",
+      "population": 10925000,
+      "gnp_old": 2527.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5699"
+  },
+  {
+    "identity": 5700,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "MY",
+      "code": "MYS",
+      "independence_year": 1957,
+      "life_expectancy": 70.8,
+      "surface_area": 329758.0,
+      "gnp": 69213.0,
+      "name": "Malaysia",
+      "head_state": "Salahuddin Abdul Aziz Shah Alhaj",
+      "local_name": "Malaysia",
+      "population": 22244000,
+      "gnp_old": 97884.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5700"
+  },
+  {
+    "identity": 5701,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "YT",
+      "code": "MYT",
+      "surface_area": 373.0,
+      "life_expectancy": 59.5,
+      "gnp": 0.0,
+      "name": "Mayotte",
+      "head_state": "Jacques Chirac",
+      "local_name": "Mayotte",
+      "population": 149000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5701"
+  },
+  {
+    "identity": 5703,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NA",
+      "code": "NAM",
+      "independence_year": 1990,
+      "life_expectancy": 42.5,
+      "surface_area": 824292.0,
+      "gnp": 3101.0,
+      "name": "Namibia",
+      "head_state": "Sam Nujoma",
+      "local_name": "Namibia",
+      "population": 1726000,
+      "gnp_old": 3384.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5703"
+  },
+  {
+    "identity": 5704,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NC",
+      "code": "NCL",
+      "surface_area": 18575.0,
+      "life_expectancy": 72.8,
+      "gnp": 3563.0,
+      "name": "New Caledonia",
+      "head_state": "Jacques Chirac",
+      "local_name": "Nouvelle-Cal\u00e9donie",
+      "population": 214000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5704"
+  },
+  {
+    "identity": 5705,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NE",
+      "code": "NER",
+      "independence_year": 1960,
+      "life_expectancy": 41.3,
+      "surface_area": 1267000.0,
+      "gnp": 1706.0,
+      "name": "Niger",
+      "head_state": "Mamadou Tandja",
+      "local_name": "Niger",
+      "population": 10730000,
+      "gnp_old": 1580.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5705"
+  },
+  {
+    "identity": 5706,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NF",
+      "code": "NFK",
+      "surface_area": 36.0,
+      "gnp": 0.0,
+      "name": "Norfolk Island",
+      "head_state": "Elisabeth II",
+      "local_name": "Norfolk Island",
+      "population": 2000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5706"
+  },
+  {
+    "identity": 5707,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NG",
+      "code": "NGA",
+      "independence_year": 1960,
+      "life_expectancy": 51.6,
+      "surface_area": 923768.0,
+      "gnp": 65707.0,
+      "name": "Nigeria",
+      "head_state": "Olusegun Obasanjo",
+      "local_name": "Nigeria",
+      "population": 111506000,
+      "gnp_old": 58623.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5707"
+  },
+  {
+    "identity": 5708,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NI",
+      "code": "NIC",
+      "independence_year": 1838,
+      "life_expectancy": 68.7,
+      "surface_area": 130000.0,
+      "gnp": 1988.0,
+      "name": "Nicaragua",
+      "head_state": "Arnoldo Alem\u00e1n Lacayo",
+      "local_name": "Nicaragua",
+      "population": 5074000,
+      "gnp_old": 2023.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5708"
+  },
+  {
+    "identity": 5709,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NU",
+      "code": "NIU",
+      "surface_area": 260.0,
+      "name": "Niue",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "Niue",
+      "population": 2000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5709"
+  },
+  {
+    "identity": 5710,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NL",
+      "code": "NLD",
+      "independence_year": 1581,
+      "life_expectancy": 78.3,
+      "surface_area": 41526.0,
+      "gnp": 371362.0,
+      "name": "Netherlands",
+      "head_state": "Beatrix",
+      "local_name": "Nederland",
+      "population": 15864000,
+      "gnp_old": 360478.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5710"
+  },
+  {
+    "identity": 5711,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NO",
+      "code": "NOR",
+      "independence_year": 1905,
+      "life_expectancy": 78.7,
+      "surface_area": 323877.0,
+      "gnp": 145895.0,
+      "name": "Norway",
+      "head_state": "Harald V",
+      "local_name": "Norge",
+      "population": 4478500,
+      "gnp_old": 153370.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5711"
+  },
+  {
+    "identity": 5712,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NP",
+      "code": "NPL",
+      "independence_year": 1769,
+      "life_expectancy": 57.8,
+      "surface_area": 147181.0,
+      "gnp": 4768.0,
+      "name": "Nepal",
+      "head_state": "Gyanendra Bir Bikram",
+      "local_name": "Nepal",
+      "population": 23930000,
+      "gnp_old": 4837.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5712"
+  },
+  {
+    "identity": 5713,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NR",
+      "code": "NRU",
+      "independence_year": 1968,
+      "surface_area": 21.0,
+      "life_expectancy": 60.8,
+      "gnp": 197.0,
+      "name": "Nauru",
+      "head_state": "Bernard Dowiyogo",
+      "local_name": "Naoero/Nauru",
+      "population": 12000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5713"
+  },
+  {
+    "identity": 5714,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "NZ",
+      "code": "NZL",
+      "independence_year": 1907,
+      "life_expectancy": 77.8,
+      "surface_area": 270534.0,
+      "gnp": 54669.0,
+      "name": "New Zealand",
+      "head_state": "Elisabeth II",
+      "local_name": "New Zealand/Aotearoa",
+      "population": 3862000,
+      "gnp_old": 64960.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5714"
+  },
+  {
+    "identity": 5715,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "OM",
+      "code": "OMN",
+      "independence_year": 1951,
+      "life_expectancy": 71.8,
+      "surface_area": 309500.0,
+      "gnp": 16904.0,
+      "name": "Oman",
+      "head_state": "Qabus ibn Sa\u00b4id",
+      "local_name": "\u00b4Uman",
+      "population": 2542000,
+      "gnp_old": 16153.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5715"
+  },
+  {
+    "identity": 5716,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PK",
+      "code": "PAK",
+      "independence_year": 1947,
+      "life_expectancy": 61.1,
+      "surface_area": 796095.0,
+      "gnp": 61289.0,
+      "name": "Pakistan",
+      "head_state": "Mohammad Rafiq Tarar",
+      "local_name": "Pakistan",
+      "population": 156483000,
+      "gnp_old": 58549.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5716"
+  },
+  {
+    "identity": 5717,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PA",
+      "code": "PAN",
+      "independence_year": 1903,
+      "life_expectancy": 75.5,
+      "surface_area": 75517.0,
+      "gnp": 9131.0,
+      "name": "Panama",
+      "head_state": "Mireya Elisa Moscoso Rodr\u00edguez",
+      "local_name": "Panam\u00e1",
+      "population": 2856000,
+      "gnp_old": 8700.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5717"
+  },
+  {
+    "identity": 5718,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PN",
+      "code": "PCN",
+      "surface_area": 49.0,
+      "gnp": 0.0,
+      "name": "Pitcairn",
+      "head_state": "Elisabeth II",
+      "local_name": "Pitcairn",
+      "population": 50
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5718"
+  },
+  {
+    "identity": 5719,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PE",
+      "code": "PER",
+      "independence_year": 1821,
+      "life_expectancy": 70.0,
+      "surface_area": 1285216.0,
+      "gnp": 64140.0,
+      "name": "Peru",
+      "head_state": "Valentin Paniagua Corazao",
+      "local_name": "Per\u00fa/Piruw",
+      "population": 25662000,
+      "gnp_old": 65186.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5719"
+  },
+  {
+    "identity": 5720,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PH",
+      "code": "PHL",
+      "independence_year": 1946,
+      "life_expectancy": 67.5,
+      "surface_area": 300000.0,
+      "gnp": 65107.0,
+      "name": "Philippines",
+      "head_state": "Gloria Macapagal-Arroyo",
+      "local_name": "Pilipinas",
+      "population": 75967000,
+      "gnp_old": 82239.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5720"
+  },
+  {
+    "identity": 5721,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PW",
+      "code": "PLW",
+      "independence_year": 1994,
+      "surface_area": 459.0,
+      "life_expectancy": 68.6,
+      "gnp": 105.0,
+      "name": "Palau",
+      "head_state": "Kuniwo Nakamura",
+      "local_name": "Belau/Palau",
+      "population": 19000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5721"
+  },
+  {
+    "identity": 5722,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PG",
+      "code": "PNG",
+      "independence_year": 1975,
+      "surface_area": 462840.0,
+      "life_expectancy": 63.1,
+      "gnp": 4988.0,
+      "name": "Papua New Guinea",
+      "head_state": "Elisabeth II",
+      "local_name": "Papua New Guinea/Papua Niugini",
+      "population": 4807000,
+      "gnp_old": 6328.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5722"
+  },
+  {
+    "identity": 5723,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PL",
+      "code": "POL",
+      "independence_year": 1918,
+      "life_expectancy": 73.2,
+      "surface_area": 323250.0,
+      "gnp": 151697.0,
+      "name": "Poland",
+      "head_state": "Aleksander Kwasniewski",
+      "local_name": "Polska",
+      "population": 38653600,
+      "gnp_old": 135636.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5723"
+  },
+  {
+    "identity": 5724,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PR",
+      "code": "PRI",
+      "life_expectancy": 75.6,
+      "surface_area": 8875.0,
+      "gnp": 34100.0,
+      "name": "Puerto Rico",
+      "head_state": "George W. Bush",
+      "local_name": "Puerto Rico",
+      "population": 3869000,
+      "gnp_old": 32100.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5724"
+  },
+  {
+    "identity": 5725,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "KP",
+      "code": "PRK",
+      "independence_year": 1948,
+      "surface_area": 120538.0,
+      "life_expectancy": 70.7,
+      "gnp": 5332.0,
+      "name": "North Korea",
+      "head_state": "Kim Jong-il",
+      "local_name": "Choson Minjujuui In\u00b4min Konghwaguk (Bukhan)",
+      "population": 24039000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5725"
+  },
+  {
+    "identity": 5726,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PT",
+      "code": "PRT",
+      "independence_year": 1143,
+      "life_expectancy": 75.8,
+      "surface_area": 91982.0,
+      "gnp": 105954.0,
+      "name": "Portugal",
+      "head_state": "Jorge Samp\u00e3io",
+      "local_name": "Portugal",
+      "population": 9997600,
+      "gnp_old": 102133.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5726"
+  },
+  {
+    "identity": 5727,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PY",
+      "code": "PRY",
+      "independence_year": 1811,
+      "life_expectancy": 73.7,
+      "surface_area": 406752.0,
+      "gnp": 8444.0,
+      "name": "Paraguay",
+      "head_state": "Luis \u00c1ngel Gonz\u00e1lez Macchi",
+      "local_name": "Paraguay",
+      "population": 5496000,
+      "gnp_old": 9555.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5727"
+  },
+  {
+    "identity": 5728,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PS",
+      "code": "PSE",
+      "surface_area": 6257.0,
+      "life_expectancy": 71.4,
+      "gnp": 4173.0,
+      "name": "Palestine",
+      "head_state": "Yasser (Yasir) Arafat",
+      "local_name": "Filastin",
+      "population": 3101000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5728"
+  },
+  {
+    "identity": 5730,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PF",
+      "code": "PYF",
+      "life_expectancy": 74.8,
+      "surface_area": 4000.0,
+      "gnp": 818.0,
+      "name": "French Polynesia",
+      "head_state": "Jacques Chirac",
+      "local_name": "Polyn\u00e9sie fran\u00e7aise",
+      "gnp_old": 781.0,
+      "population": 235000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5730"
+  },
+  {
+    "identity": 5731,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "QA",
+      "code": "QAT",
+      "independence_year": 1971,
+      "life_expectancy": 72.4,
+      "surface_area": 11000.0,
+      "gnp": 9472.0,
+      "name": "Qatar",
+      "head_state": "Hamad ibn Khalifa al-Thani",
+      "local_name": "Qatar",
+      "population": 599000,
+      "gnp_old": 8920.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5731"
+  },
+  {
+    "identity": 5732,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "RE",
+      "code": "REU",
+      "life_expectancy": 72.7,
+      "surface_area": 2510.0,
+      "gnp": 8287.0,
+      "name": "R\u00e9union",
+      "head_state": "Jacques Chirac",
+      "local_name": "R\u00e9union",
+      "population": 699000,
+      "gnp_old": 7988.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5732"
+  },
+  {
+    "identity": 5733,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "RO",
+      "code": "ROM",
+      "independence_year": 1878,
+      "life_expectancy": 69.9,
+      "surface_area": 238391.0,
+      "gnp": 38158.0,
+      "name": "Romania",
+      "head_state": "Ion Iliescu",
+      "local_name": "Rom\u00e2nia",
+      "population": 22455500,
+      "gnp_old": 34843.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5733"
+  },
+  {
+    "identity": 5734,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "RU",
+      "code": "RUS",
+      "independence_year": 1991,
+      "surface_area": 17075400.0,
+      "life_expectancy": 67.2,
+      "gnp": 276608.0,
+      "name": "Russian Federation",
+      "head_state": "Vladimir Putin",
+      "local_name": "Rossija",
+      "population": 146934000,
+      "gnp_old": 442989.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5734"
+  },
+  {
+    "identity": 5735,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "RW",
+      "code": "RWA",
+      "independence_year": 1962,
+      "life_expectancy": 39.3,
+      "surface_area": 26338.0,
+      "gnp": 2036.0,
+      "name": "Rwanda",
+      "head_state": "Paul Kagame",
+      "local_name": "Rwanda/Urwanda",
+      "population": 7733000,
+      "gnp_old": 1863.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5735"
+  },
+  {
+    "identity": 5736,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SA",
+      "code": "SAU",
+      "independence_year": 1932,
+      "life_expectancy": 67.8,
+      "surface_area": 2149690.0,
+      "gnp": 137635.0,
+      "name": "Saudi Arabia",
+      "head_state": "Fahd ibn Abdul-Aziz al-Sa\u00b4ud",
+      "local_name": "Al-\u00b4Arabiya as-Sa\u00b4udiya",
+      "population": 21607000,
+      "gnp_old": 146171.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5736"
+  },
+  {
+    "identity": 5737,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SD",
+      "code": "SDN",
+      "independence_year": 1956,
+      "surface_area": 2505813.0,
+      "life_expectancy": 56.6,
+      "gnp": 10162.0,
+      "name": "Sudan",
+      "head_state": "Omar Hassan Ahmad al-Bashir",
+      "local_name": "As-Sudan",
+      "population": 29490000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5737"
+  },
+  {
+    "identity": 5738,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SN",
+      "code": "SEN",
+      "independence_year": 1960,
+      "life_expectancy": 62.2,
+      "surface_area": 196722.0,
+      "gnp": 4787.0,
+      "name": "Senegal",
+      "head_state": "Abdoulaye Wade",
+      "local_name": "S\u00e9n\u00e9gal/Sounougal",
+      "population": 9481000,
+      "gnp_old": 4542.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5738"
+  },
+  {
+    "identity": 5739,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SG",
+      "code": "SGP",
+      "independence_year": 1965,
+      "life_expectancy": 80.1,
+      "surface_area": 618.0,
+      "gnp": 86503.0,
+      "name": "Singapore",
+      "head_state": "Sellapan Rama Nathan",
+      "local_name": "Singapore/Singapura/Xinjiapo/Singapur",
+      "population": 3567000,
+      "gnp_old": 96318.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5739"
+  },
+  {
+    "identity": 5740,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "GS",
+      "code": "SGS",
+      "surface_area": 3903.0,
+      "name": "South Georgia and the South Sandwich Islands",
+      "gnp": 0.0,
+      "head_state": "Elisabeth II",
+      "local_name": "South Georgia and the South Sandwich Islands",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5740"
+  },
+  {
+    "identity": 5741,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SH",
+      "code": "SHN",
+      "surface_area": 314.0,
+      "life_expectancy": 76.8,
+      "gnp": 0.0,
+      "name": "Saint Helena",
+      "head_state": "Elisabeth II",
+      "local_name": "Saint Helena",
+      "population": 6000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5741"
+  },
+  {
+    "identity": 5742,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SJ",
+      "code": "SJM",
+      "surface_area": 62422.0,
+      "name": "Svalbard and Jan Mayen",
+      "gnp": 0.0,
+      "head_state": "Harald V",
+      "local_name": "Svalbard og Jan Mayen",
+      "population": 3200
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5742"
+  },
+  {
+    "identity": 5743,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SB",
+      "code": "SLB",
+      "independence_year": 1978,
+      "surface_area": 28896.0,
+      "life_expectancy": 71.3,
+      "gnp": 182.0,
+      "name": "Solomon Islands",
+      "head_state": "Elisabeth II",
+      "local_name": "Solomon Islands",
+      "population": 444000,
+      "gnp_old": 220.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5743"
+  },
+  {
+    "identity": 5744,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SL",
+      "code": "SLE",
+      "independence_year": 1961,
+      "life_expectancy": 45.3,
+      "surface_area": 71740.0,
+      "gnp": 746.0,
+      "name": "Sierra Leone",
+      "head_state": "Ahmed Tejan Kabbah",
+      "local_name": "Sierra Leone",
+      "population": 4854000,
+      "gnp_old": 858.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5744"
+  },
+  {
+    "identity": 5745,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SV",
+      "code": "SLV",
+      "independence_year": 1841,
+      "life_expectancy": 69.7,
+      "surface_area": 21041.0,
+      "gnp": 11863.0,
+      "name": "El Salvador",
+      "head_state": "Francisco Guillermo Flores P\u00e9rez",
+      "local_name": "El Salvador",
+      "population": 6276000,
+      "gnp_old": 11203.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5745"
+  },
+  {
+    "identity": 5746,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SM",
+      "code": "SMR",
+      "independence_year": 885,
+      "surface_area": 61.0,
+      "life_expectancy": 81.1,
+      "gnp": 510.0,
+      "name": "San Marino",
+      "local_name": "San Marino",
+      "population": 27000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5746"
+  },
+  {
+    "identity": 5747,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SO",
+      "code": "SOM",
+      "independence_year": 1960,
+      "surface_area": 637657.0,
+      "life_expectancy": 46.2,
+      "gnp": 935.0,
+      "name": "Somalia",
+      "head_state": "Abdiqassim Salad Hassan",
+      "local_name": "Soomaaliya",
+      "population": 10097000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5747"
+  },
+  {
+    "identity": 5748,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "PM",
+      "code": "SPM",
+      "surface_area": 242.0,
+      "life_expectancy": 77.6,
+      "gnp": 0.0,
+      "name": "Saint Pierre and Miquelon",
+      "head_state": "Jacques Chirac",
+      "local_name": "Saint-Pierre-et-Miquelon",
+      "population": 7000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5748"
+  },
+  {
+    "identity": 5749,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ST",
+      "code": "STP",
+      "independence_year": 1975,
+      "life_expectancy": 65.3,
+      "surface_area": 964.0,
+      "gnp": 6.0,
+      "name": "Sao Tome and Principe",
+      "head_state": "Miguel Trovoada",
+      "local_name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+      "population": 147000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5749"
+  },
+  {
+    "identity": 5750,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SR",
+      "code": "SUR",
+      "independence_year": 1975,
+      "life_expectancy": 71.4,
+      "surface_area": 163265.0,
+      "gnp": 870.0,
+      "name": "Suriname",
+      "head_state": "Ronald Venetiaan",
+      "local_name": "Suriname",
+      "population": 417000,
+      "gnp_old": 706.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5750"
+  },
+  {
+    "identity": 5751,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SK",
+      "code": "SVK",
+      "independence_year": 1993,
+      "life_expectancy": 73.7,
+      "surface_area": 49012.0,
+      "gnp": 20594.0,
+      "name": "Slovakia",
+      "head_state": "Rudolf Schuster",
+      "local_name": "Slovensko",
+      "population": 5398700,
+      "gnp_old": 19452.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5751"
+  },
+  {
+    "identity": 5752,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SI",
+      "code": "SVN",
+      "independence_year": 1991,
+      "life_expectancy": 74.9,
+      "surface_area": 20256.0,
+      "gnp": 19756.0,
+      "name": "Slovenia",
+      "head_state": "Milan Kucan",
+      "local_name": "Slovenija",
+      "population": 1987800,
+      "gnp_old": 18202.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5752"
+  },
+  {
+    "identity": 5753,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SE",
+      "code": "SWE",
+      "independence_year": 836,
+      "life_expectancy": 79.6,
+      "surface_area": 449964.0,
+      "gnp": 226492.0,
+      "name": "Sweden",
+      "head_state": "Carl XVI Gustaf",
+      "local_name": "Sverige",
+      "population": 8861400,
+      "gnp_old": 227757.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5753"
+  },
+  {
+    "identity": 5754,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SZ",
+      "code": "SWZ",
+      "independence_year": 1968,
+      "life_expectancy": 40.4,
+      "surface_area": 17364.0,
+      "gnp": 1206.0,
+      "name": "Swaziland",
+      "head_state": "Mswati III",
+      "local_name": "kaNgwane",
+      "population": 1008000,
+      "gnp_old": 1312.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5754"
+  },
+  {
+    "identity": 5755,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SC",
+      "code": "SYC",
+      "independence_year": 1976,
+      "life_expectancy": 70.4,
+      "surface_area": 455.0,
+      "gnp": 536.0,
+      "name": "Seychelles",
+      "head_state": "France-Albert Ren\u00e9",
+      "local_name": "Sesel/Seychelles",
+      "population": 77000,
+      "gnp_old": 539.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5755"
+  },
+  {
+    "identity": 5756,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "SY",
+      "code": "SYR",
+      "independence_year": 1941,
+      "life_expectancy": 68.5,
+      "surface_area": 185180.0,
+      "gnp": 65984.0,
+      "name": "Syria",
+      "head_state": "Bashar al-Assad",
+      "local_name": "Suriya",
+      "population": 16125000,
+      "gnp_old": 64926.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5756"
+  },
+  {
+    "identity": 5757,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TC",
+      "code": "TCA",
+      "surface_area": 430.0,
+      "life_expectancy": 73.3,
+      "gnp": 96.0,
+      "name": "Turks and Caicos Islands",
+      "head_state": "Elisabeth II",
+      "local_name": "The Turks and Caicos Islands",
+      "population": 17000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5757"
+  },
+  {
+    "identity": 5758,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TD",
+      "code": "TCD",
+      "independence_year": 1960,
+      "life_expectancy": 50.5,
+      "surface_area": 1284000.0,
+      "gnp": 1208.0,
+      "name": "Chad",
+      "head_state": "Idriss D\u00e9by",
+      "local_name": "Tchad/Tshad",
+      "population": 7651000,
+      "gnp_old": 1102.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5758"
+  },
+  {
+    "identity": 5759,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TG",
+      "code": "TGO",
+      "independence_year": 1960,
+      "life_expectancy": 54.7,
+      "surface_area": 56785.0,
+      "gnp": 1449.0,
+      "name": "Togo",
+      "head_state": "Gnassingb\u00e9 Eyad\u00e9ma",
+      "local_name": "Togo",
+      "population": 4629000,
+      "gnp_old": 1400.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5759"
+  },
+  {
+    "identity": 5760,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TH",
+      "code": "THA",
+      "independence_year": 1350,
+      "life_expectancy": 68.6,
+      "surface_area": 513115.0,
+      "gnp": 116416.0,
+      "name": "Thailand",
+      "head_state": "Bhumibol Adulyadej",
+      "local_name": "Prathet Thai",
+      "population": 61399000,
+      "gnp_old": 153907.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5760"
+  },
+  {
+    "identity": 5761,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TJ",
+      "code": "TJK",
+      "independence_year": 1991,
+      "life_expectancy": 64.1,
+      "surface_area": 143100.0,
+      "gnp": 1990.0,
+      "name": "Tajikistan",
+      "head_state": "Emomali Rahmonov",
+      "local_name": "To\u00e7ikiston",
+      "population": 6188000,
+      "gnp_old": 1056.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5761"
+  },
+  {
+    "identity": 5762,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TK",
+      "code": "TKL",
+      "surface_area": 12.0,
+      "gnp": 0.0,
+      "name": "Tokelau",
+      "head_state": "Elisabeth II",
+      "local_name": "Tokelau",
+      "population": 2000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5762"
+  },
+  {
+    "identity": 5763,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TM",
+      "code": "TKM",
+      "independence_year": 1991,
+      "life_expectancy": 60.9,
+      "surface_area": 488100.0,
+      "gnp": 4397.0,
+      "name": "Turkmenistan",
+      "head_state": "Saparmurad Nijazov",
+      "local_name": "T\u00fcrkmenostan",
+      "population": 4459000,
+      "gnp_old": 2000.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5763"
+  },
+  {
+    "identity": 5764,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TP",
+      "code": "TMP",
+      "surface_area": 14874.0,
+      "life_expectancy": 46.0,
+      "gnp": 0.0,
+      "name": "East Timor",
+      "head_state": "Jos\u00e9 Alexandre Gusm\u00e3o",
+      "local_name": "Timor Timur",
+      "population": 885000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5764"
+  },
+  {
+    "identity": 5766,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TO",
+      "code": "TON",
+      "independence_year": 1970,
+      "life_expectancy": 67.9,
+      "surface_area": 650.0,
+      "gnp": 146.0,
+      "name": "Tonga",
+      "head_state": "Taufa'ahau Tupou IV",
+      "local_name": "Tonga",
+      "population": 99000,
+      "gnp_old": 170.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5766"
+  },
+  {
+    "identity": 5767,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TT",
+      "code": "TTO",
+      "independence_year": 1962,
+      "surface_area": 5130.0,
+      "life_expectancy": 68.0,
+      "gnp": 6232.0,
+      "name": "Trinidad and Tobago",
+      "head_state": "Arthur N. R. Robinson",
+      "local_name": "Trinidad and Tobago",
+      "population": 1295000,
+      "gnp_old": 5867.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5767"
+  },
+  {
+    "identity": 5768,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TN",
+      "code": "TUN",
+      "independence_year": 1956,
+      "life_expectancy": 73.7,
+      "surface_area": 163610.0,
+      "gnp": 20026.0,
+      "name": "Tunisia",
+      "head_state": "Zine al-Abidine Ben Ali",
+      "local_name": "Tunis/Tunisie",
+      "population": 9586000,
+      "gnp_old": 18898.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5768"
+  },
+  {
+    "identity": 5769,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TR",
+      "code": "TUR",
+      "independence_year": 1923,
+      "life_expectancy": 71.0,
+      "surface_area": 774815.0,
+      "gnp": 210721.0,
+      "name": "Turkey",
+      "head_state": "Ahmet Necdet Sezer",
+      "local_name": "T\u00fcrkiye",
+      "population": 66591000,
+      "gnp_old": 189122.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5769"
+  },
+  {
+    "identity": 5770,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TV",
+      "code": "TUV",
+      "independence_year": 1978,
+      "surface_area": 26.0,
+      "life_expectancy": 66.3,
+      "gnp": 6.0,
+      "name": "Tuvalu",
+      "head_state": "Elisabeth II",
+      "local_name": "Tuvalu",
+      "population": 12000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5770"
+  },
+  {
+    "identity": 5771,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TW",
+      "code": "TWN",
+      "independence_year": 1945,
+      "life_expectancy": 76.4,
+      "surface_area": 36188.0,
+      "gnp": 256254.0,
+      "name": "Taiwan",
+      "head_state": "Chen Shui-bian",
+      "local_name": "T\u2019ai-wan",
+      "population": 22256000,
+      "gnp_old": 263451.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5771"
+  },
+  {
+    "identity": 5772,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "TZ",
+      "code": "TZA",
+      "independence_year": 1961,
+      "life_expectancy": 52.3,
+      "surface_area": 883749.0,
+      "gnp": 8005.0,
+      "name": "Tanzania",
+      "head_state": "Benjamin William Mkapa",
+      "local_name": "Tanzania",
+      "population": 33517000,
+      "gnp_old": 7388.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5772"
+  },
+  {
+    "identity": 5773,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "UG",
+      "code": "UGA",
+      "independence_year": 1962,
+      "life_expectancy": 42.9,
+      "surface_area": 241038.0,
+      "gnp": 6313.0,
+      "name": "Uganda",
+      "head_state": "Yoweri Museveni",
+      "local_name": "Uganda",
+      "population": 21778000,
+      "gnp_old": 6887.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5773"
+  },
+  {
+    "identity": 5774,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "UA",
+      "code": "UKR",
+      "independence_year": 1991,
+      "life_expectancy": 66.0,
+      "surface_area": 603700.0,
+      "gnp": 42168.0,
+      "name": "Ukraine",
+      "head_state": "Leonid Kut\u0161ma",
+      "local_name": "Ukrajina",
+      "population": 50456000,
+      "gnp_old": 49677.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5774"
+  },
+  {
+    "identity": 5775,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "UM",
+      "code": "UMI",
+      "surface_area": 16.0,
+      "name": "United States Minor Outlying Islands",
+      "gnp": 0.0,
+      "head_state": "George W. Bush",
+      "local_name": "United States Minor Outlying Islands",
+      "population": 0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5775"
+  },
+  {
+    "identity": 5778,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "UY",
+      "code": "URY",
+      "independence_year": 1828,
+      "life_expectancy": 75.2,
+      "surface_area": 175016.0,
+      "gnp": 20831.0,
+      "name": "Uruguay",
+      "head_state": "Jorge Batlle Ib\u00e1\u00f1ez",
+      "local_name": "Uruguay",
+      "population": 3337000,
+      "gnp_old": 19967.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5778"
+  },
+  {
+    "identity": 5779,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "US",
+      "code": "USA",
+      "independence_year": 1776,
+      "life_expectancy": 77.1,
+      "surface_area": 9363520.0,
+      "gnp": 8510700.0,
+      "name": "United States",
+      "head_state": "George W. Bush",
+      "local_name": "United States",
+      "population": 278357000,
+      "gnp_old": 8110900.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5779"
+  },
+  {
+    "identity": 5780,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "UZ",
+      "code": "UZB",
+      "independence_year": 1991,
+      "life_expectancy": 63.7,
+      "surface_area": 447400.0,
+      "gnp": 14194.0,
+      "name": "Uzbekistan",
+      "head_state": "Islam Karimov",
+      "local_name": "Uzbekiston",
+      "population": 24318000,
+      "gnp_old": 21300.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5780"
+  },
+  {
+    "identity": 5781,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VA",
+      "code": "VAT",
+      "independence_year": 1929,
+      "surface_area": 0.4,
+      "gnp": 9.0,
+      "name": "Holy See (Vatican City State)",
+      "head_state": "Johannes Paavali II",
+      "local_name": "Santa Sede/Citt\u00e0 del Vaticano",
+      "population": 1000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5781"
+  },
+  {
+    "identity": 5783,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VC",
+      "code": "VCT",
+      "independence_year": 1979,
+      "life_expectancy": 72.3,
+      "surface_area": 388.0,
+      "gnp": 285.0,
+      "name": "Saint Vincent and the Grenadines",
+      "head_state": "Elisabeth II",
+      "local_name": "Saint Vincent and the Grenadines",
+      "population": 114000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5783"
+  },
+  {
+    "identity": 5784,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VE",
+      "code": "VEN",
+      "independence_year": 1811,
+      "life_expectancy": 73.1,
+      "surface_area": 912050.0,
+      "gnp": 95023.0,
+      "name": "Venezuela",
+      "head_state": "Hugo Ch\u00e1vez Fr\u00edas",
+      "local_name": "Venezuela",
+      "population": 24170000,
+      "gnp_old": 88434.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5784"
+  },
+  {
+    "identity": 5785,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VG",
+      "code": "VGB",
+      "life_expectancy": 75.4,
+      "surface_area": 151.0,
+      "gnp": 612.0,
+      "name": "Virgin Islands, British",
+      "head_state": "Elisabeth II",
+      "local_name": "British Virgin Islands",
+      "gnp_old": 573.0,
+      "population": 21000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5785"
+  },
+  {
+    "identity": 5786,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VI",
+      "code": "VIR",
+      "surface_area": 347.0,
+      "life_expectancy": 78.1,
+      "gnp": 0.0,
+      "name": "Virgin Islands, U.S.",
+      "head_state": "George W. Bush",
+      "local_name": "Virgin Islands of the United States",
+      "population": 93000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5786"
+  },
+  {
+    "identity": 5787,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VN",
+      "code": "VNM",
+      "independence_year": 1945,
+      "life_expectancy": 69.3,
+      "surface_area": 331689.0,
+      "gnp": 21929.0,
+      "name": "Vietnam",
+      "head_state": "Tr\u00e2n Duc Luong",
+      "local_name": "Vi\u00eat Nam",
+      "population": 79832000,
+      "gnp_old": 22834.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5787"
+  },
+  {
+    "identity": 5788,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "VU",
+      "code": "VUT",
+      "independence_year": 1980,
+      "life_expectancy": 60.6,
+      "surface_area": 12189.0,
+      "gnp": 261.0,
+      "name": "Vanuatu",
+      "head_state": "John Bani",
+      "local_name": "Vanuatu",
+      "population": 190000,
+      "gnp_old": 246.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5788"
+  },
+  {
+    "identity": 5789,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "WF",
+      "code": "WLF",
+      "surface_area": 200.0,
+      "name": "Wallis and Futuna",
+      "gnp": 0.0,
+      "head_state": "Jacques Chirac",
+      "local_name": "Wallis-et-Futuna",
+      "population": 15000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5789"
+  },
+  {
+    "identity": 5790,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "WS",
+      "code": "WSM",
+      "independence_year": 1962,
+      "life_expectancy": 69.2,
+      "surface_area": 2831.0,
+      "gnp": 141.0,
+      "name": "Samoa",
+      "head_state": "Malietoa Tanumafili II",
+      "local_name": "Samoa",
+      "population": 180000,
+      "gnp_old": 157.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5790"
+  },
+  {
+    "identity": 5792,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "YE",
+      "code": "YEM",
+      "independence_year": 1918,
+      "life_expectancy": 59.8,
+      "surface_area": 527968.0,
+      "gnp": 6041.0,
+      "name": "Yemen",
+      "head_state": "Ali Abdallah Salih",
+      "local_name": "Al-Yaman",
+      "population": 18112000,
+      "gnp_old": 5729.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5792"
+  },
+  {
+    "identity": 5793,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "YU",
+      "code": "YUG",
+      "independence_year": 1918,
+      "surface_area": 102173.0,
+      "life_expectancy": 72.4,
+      "gnp": 17000.0,
+      "name": "Yugoslavia",
+      "head_state": "Vojislav Ko\u0161tunica",
+      "local_name": "Jugoslavija",
+      "population": 10640000
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5793"
+  },
+  {
+    "identity": 5794,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ZA",
+      "code": "ZAF",
+      "independence_year": 1910,
+      "life_expectancy": 51.1,
+      "surface_area": 1221037.0,
+      "gnp": 116729.0,
+      "name": "South Africa",
+      "head_state": "Thabo Mbeki",
+      "local_name": "South Africa",
+      "population": 40377000,
+      "gnp_old": 129092.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5794"
+  },
+  {
+    "identity": 5795,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ZM",
+      "code": "ZMB",
+      "independence_year": 1964,
+      "life_expectancy": 37.2,
+      "surface_area": 752618.0,
+      "gnp": 3377.0,
+      "name": "Zambia",
+      "head_state": "Frederick Chiluba",
+      "local_name": "Zambia",
+      "population": 9169000,
+      "gnp_old": 3922.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5795"
+  },
+  {
+    "identity": 5796,
+    "labels": [
+      "Country"
+    ],
+    "properties": {
+      "code2": "ZW",
+      "code": "ZWE",
+      "independence_year": 1980,
+      "life_expectancy": 37.8,
+      "surface_area": 390757.0,
+      "gnp": 5951.0,
+      "name": "Zimbabwe",
+      "head_state": "Robert G. Mugabe",
+      "local_name": "Zimbabwe",
+      "population": 11669000,
+      "gnp_old": 8670.0
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5796"
+  }
+]

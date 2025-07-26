@@ -1,0 +1,352 @@
+[
+  {
+    "identity": 5186,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Nonmetropolitan Territory of The Netherlands"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5186"
+  },
+  {
+    "identity": 5190,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Islamic Emirate"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5190"
+  },
+  {
+    "identity": 5194,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Republic"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5194"
+  },
+  {
+    "identity": 5198,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Dependent Territory of the UK"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5198"
+  },
+  {
+    "identity": 5203,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Parliamentary Coprincipality"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5203"
+  },
+  {
+    "identity": 5206,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Emirate Federation"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5206"
+  },
+  {
+    "identity": 5209,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Federal Republic"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5209"
+  },
+  {
+    "identity": 5497,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "US Territory"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5497"
+  },
+  {
+    "identity": 5502,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Co-administrated"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5502"
+  },
+  {
+    "identity": 5509,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Nonmetropolitan Territory of France"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5509"
+  },
+  {
+    "identity": 5513,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Constitutional Monarchy"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5513"
+  },
+  {
+    "identity": 5516,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Constitutional Monarchy, Federation"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5516"
+  },
+  {
+    "identity": 5545,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Monarchy (Emirate)"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5545"
+  },
+  {
+    "identity": 5559,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Monarchy (Sultanate)"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5559"
+  },
+  {
+    "identity": 5562,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Monarchy"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5562"
+  },
+  {
+    "identity": 5564,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Dependent Territory of Norway"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5564"
+  },
+  {
+    "identity": 5570,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Territory of Australia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5570"
+  },
+  {
+    "identity": 5572,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Federation"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5572"
+  },
+  {
+    "identity": 5575,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "People'sRepublic"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5575"
+  },
+  {
+    "identity": 5582,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Nonmetropolitan Territory of New Zealand"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5582"
+  },
+  {
+    "identity": 5588,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Socialistic Republic"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5588"
+  },
+  {
+    "identity": 5605,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Occupied by Marocco"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5605"
+  },
+  {
+    "identity": 5616,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Part of Denmark"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5616"
+  },
+  {
+    "identity": 5627,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Overseas Department of France"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5627"
+  },
+  {
+    "identity": 5639,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Special Administrative Region of China"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5639"
+  },
+  {
+    "identity": 5650,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Islamic Republic"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5650"
+  },
+  {
+    "identity": 5666,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Constitutional Monarchy (Emirate)"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5666"
+  },
+  {
+    "identity": 5671,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Socialistic State"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5671"
+  },
+  {
+    "identity": 5693,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Commonwealth of the US"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5693"
+  },
+  {
+    "identity": 5702,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Territorial Collectivity of France"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5702"
+  },
+  {
+    "identity": 5729,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Autonomous Area"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5729"
+  },
+  {
+    "identity": 5765,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Administrated by the UN"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5765"
+  },
+  {
+    "identity": 5776,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Dependent Territory of the US"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5776"
+  },
+  {
+    "identity": 5782,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Independent Church State"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5782"
+  },
+  {
+    "identity": 5791,
+    "labels": [
+      "Government"
+    ],
+    "properties": {
+      "name": "Parlementary Monarchy"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5791"
+  }
+]

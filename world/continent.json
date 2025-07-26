@@ -1,0 +1,72 @@
+[
+  {
+    "identity": 5188,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "North America"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5188"
+  },
+  {
+    "identity": 5192,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "Asia"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5192"
+  },
+  {
+    "identity": 5196,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "Africa"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5196"
+  },
+  {
+    "identity": 5201,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "Europe"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5201"
+  },
+  {
+    "identity": 5493,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "South America"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5493"
+  },
+  {
+    "identity": 5500,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "Oceania"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5500"
+  },
+  {
+    "identity": 5506,
+    "labels": [
+      "Continent"
+    ],
+    "properties": {
+      "name": "Antarctica"
+    },
+    "elementId": "4:2a767534-0bf3-490a-9556-c3a6c99f0c7c:5506"
+  }
+]
